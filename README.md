@@ -1,0 +1,1 @@
+In order to improve my mother’s business, I’ve web scraped data from three popular flower shop websites regarding the contents and prices of their bouquets to gain insight into how these compare to my mother’s services.
