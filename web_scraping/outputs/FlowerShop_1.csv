@@ -1,0 +1,264 @@
+Product name,Price (RON),Contents
+Buchet bujori,297.7,{'Bujor': 11}
+Buchet flori Maria,362.7,"{'Trandafir': 11, 'Crizantema': 6, 'Santini': 3, 'Lisianthus': 3}"
+Cutie insorita,297.7,"{'Floarea-soarelui': 9, 'Lisianthus': 4}"
+19 Trandafiri,284.7,{'Trandafir': 19}
+Buchet 99 trandafiri rosii,1298.7,{'Trandafir': 99}
+11 Trandafiri rosii,187.2,{'Trandafir': 11}
+Buchet 5 trandafiri,129,{'Trandafir': 5}
+11 Trandafiri roz,187.2,{'Trandafir': 11}
+11 Trandafiri albi,187.2,{'Trandafir': 11}
+Buchet 35 trandafiri,486.2,{'Trandafir': 35}
+Senzualitate magica,778.7,{'Trandafir': 59}
+11 Trandafiri portocalii,187.2,{'Trandafir': 11}
+11 Trandafiri galbeni,187.2,{'Trandafir': 11}
+25 Trandafiri,349.7,{'Trandafir': 25}
+Pachet de primavara,279,"{'Trandafir': 4, 'Gerbera': 4, 'Crizantema': 4, 'Garoafa': 5}"
+Lalele roz,179,{'Lalea': 15}
+Buchet lalele multicolore,232.83,{'Lalea': 25}
+Buchet martisor,274,{'Trandafir': 15}
+Buchet lalele colorat,232.83,{'Lalea': 25}
+Buchet lalele duo,232.83,{'Lalea': 25}
+Elixir floral,375.7,"{'Trandafir': 7, 'Alstroemeria': 5, 'Minirosa': 4, 'Floarea-soarelui': 1}"
+Alb rosu,162.63,"{'Crin': 1, 'Trandafir': 4}"
+Buchet 19 lalele,182,{'Lalea': 19}
+Buchet de iubire,226.2,{'Trandafir': 13}
+Cos cu flori,362.7,"{'Alstroemeria': 20, 'Crizantema': 5}"
+Nuante de roz,245.7,"{'Trandafir': 6, 'Alstroemeria': 9}"
+23 Trandafiri albi,339.3,{'Trandafir': 23}
+Buchet 99 trandafiri roz,1134.97,{'Trandafir': 99}
+Lalele albe,179,{'Lalea': 15}
+Buchet iris,258.7,{'Iris': 25}
+Martisor 35,569,{'Trandafir': 35}
+Buchetul Paula,180.7,{'Trandafir': 9}
+Lalele galbene,179,{'Lalea': 15}
+Love 79,1136.2,{'Trandafir': 79}
+Lalele albe si rosii,210,{'Lalea': 19}
+Trandafiri cu eucalipt,271.7,{'Trandafir': 15}
+Buchet lisianthus mov,180.18,{'Lisianthus': 7}
+Dulce primavara,339,{'Trandafir': 17}
+Alstroemeria albe,239.2,{'Alstroemeria': 9}
+Buchet lisianthus alb,180.18,{'Lisianthus': 7}
+Buchet de primavara,258.7,"{'Gerbera': 5, 'Crizantema': 10, 'Garoafa': 5, 'Iris': 3}"
+Crizanteme grena,193.7,{'Crizantema': 9}
+Buchet narcise,161.2,{'Narcisa': 19}
+Frezii galbene,265.2,{'Frezia': 25}
+Mesagerul dragostei,382.2,{'Trandafir': 21}
+Incognito,453.7,"{'Trandafir': 18, 'Alstroemeria': 15}"
+Cale albe deluxe,499.2,{'Cale': 19}
+Buchet flori martie,310.7,"{'Alstroemeria': 7, 'Lalea': 7, 'Lisianthus': 5, 'Iris': 8}"
+Frezii si trandafiri,278.2,"{'Trandafir': 7, 'Frezia': 14}"
+Buchet zambile,161.2,{'Zambila': 5}
+Cosulet Valentine's,249,{'Trandafir': 9}
+Crini cu santini,414.18,"{'Crin': 5, 'Crizantema': 8}"
+Gladiole rosii,180.96,{'Gladiole': 19}
+Amalgam cromatic,343.2,"{'Iris': 9, 'Santini': 4, 'Crizantema': 5, 'Trandafir': 7}"
+Buchet lalele rosii,239.2,{'Lalea': 25}
+Gladiole roz,180.96,{'Gladiole': 19}
+Crizanteme albe,191.36,{'Crizantema': 9}
+Orhidee cymbidium verzi,388.7,{'Orhidee': 3}
+Buchet zambile roz,161.2,{'Zambila': 5}
+Frezii albe,265.2,{'Frezia': 25}
+Buchet trandafiri rosii,382.2,{'Trandafir': 27}
+Buchet zambile albe,161.2,{'Zambila': 5}
+Buna seara,297.7,"{'Trandafir': 5, 'Crizantema': 5, 'Alstroemeria': 7}"
+Crini si crizanteme,215.28,"{'Crin': 2, 'Crizantema': 5}"
+Cutie trandafiri rosii,349.7,{'Trandafir': 19}
+Buchet lalele mov,239.2,{'Lalea': 25}
+Zambet cald,291.2,"{'Crin': 1, 'Lisianthus': 4, 'Garoafa': 8}"
+Bambus cu orhidee,330.2,"{'Orhidee': 9, 'Bambus': 4}"
+Adorabil,232.7,"{'Gerbera': 7, 'Crizantema': 4}"
+Trandafiri galbeni rotund,213.2,{'Trandafir': 11}
+Buchet floarea soarelui,226.2,{'Floarea-soarelui': 11}
+39 Trandafiri rosii,518.7,{'Trandafir': 39}
+Buchet mixt,200.2,"{'Gerbera': 5, 'Crizantema': 4}"
+Gerbera multicolore,187.2,{'Gerbera': 11}
+Frezii Rosii,265.2,{'Frezia': 25}
+Trandafiri rosii rotund,213.2,{'Trandafir': 11}
+Crini asiatici roz,264.16,{'Crin': 7}
+Martisor extravagant,941.2,{'Trandafir': 39}
+Lalele si irisi,382.2,"{'Lalea': 19, 'Iris': 20}"
+Frezii mov,265.2,{'Frezia': 25}
+Buchet 15 trandafiri,245.7,{'Trandafir': 15}
+Orhidee cymbidium mov,388.7,{'Orhidee': 3}
+Crini si trandafiri,395.2,"{'Trandafir': 14, 'Crin': 3}"
+Buchet cale,252.2,{'Cale': 9}
+Frezii multicolore,265.2,{'Frezia': 25}
+Buchet iscoditor,518.7,"{'Trandafir': 19, 'Lisianthus': 9, 'Trachelium': 5}"
+Caldura estivala,369.2,"{'Trandafir': 10, 'Cale': 9}"
+17 Trandafiri albi,265.53,{'Trandafir': 17}
+Buchet pascal,297.7,"{'Iris': 8, 'Trandafir': 7, 'Crin': 2}"
+Raze de bucurie,330.2,"{'Crin': 2, 'Alstroemeria': 7, 'Trandafir': 7, 'Minirosa': 5}"
+Buchet 99 trandafiri,1134.97,{'Trandafir': 99}
+Cos pastelat,388.7,{'Trandafir': 19}
+Buchet crini,343.2,{'Crin': 9}
+Irisi albi,226.2,{'Iris': 19}
+Cupidon in alb,421.2,{'Trandafir': 25}
+23 Trandafiri galbeni,339.3,{'Trandafir': 23}
+Un zambet,191.1,{'Orhidee': 1}
+17 Trandafiri galbeni,265.53,{'Trandafir': 17}
+Buna dimineata,385.65,"{'Crin': 3, 'Alstroemeria': 5, 'Gerbera': 4, 'Cale': 5}"
+Martisor mix,317.2,"{'Crin': 2, 'Trandafir': 5, 'Crizantema': 5, 'Garoafa': 5}"
+Extravaganta estivala,369.2,"{'Trandafir': 7, 'Gerbera': 6, 'Crin': 2}"
+Buchet gerbera,184.28,{'Gerbera': 11}
+Buchet Constantin,226.2,{'Crizantema': 9}
+Moment roz,343.98,"{'Trandafir': 9, 'Alstroemeria': 10}"
+39 Trandafiri multicolori,518.7,{'Trandafir': 39}
+Lisianthus mix,291.2,{'Lisianthus': 15}
+Irisi de lux,291.2,{'Iris': 25}
+Mix de primavara,317.2,"{'Crin': 3, 'Crizantema': 5, 'Garoafa': 12, 'Santini': 5}"
+Trandafiri de lux,1136.2,{'Trandafir': 99}
+Garoafe mix,200.2,{'Garoafa': 19}
+Alstroemeria mov,239.2,{'Alstroemeria': 9}
+Margarete zambitoare,232.7,{'Crizantema': 9}
+Buchet Valentine's day,518.7,"{'Trandafir': 20, 'Orhidee cymbidium': 1}"
+Trei anthurium,161.2,{'Anthurium': 3}
+Trei anthurium roz,161.2,{'Anthurium': 3}
+Privire aprinsa,327.6,"{'Trandafir': 9, 'Crizantema': 5, 'Trandafir tros': 5}"
+Contrast de dragobete,291.2,"{'Trandafir': 10, 'Frezia': 11}"
+Special Valentine's,229,{'Trandafir': 11}
+Orhidee mov,258.7,{'Orhidee': 9}
+Trandafiri Martisor,583.7,{'Trandafir': 39}
+Orhidee cymbidium mix,648.7,{'Orhidee': 3}
+Un gand,191.1,{'Orhidee': 1}
+Buchet anthurium roz,278.2,{'Anthurium': 9}
+Lux si eleganta,518.7,"{'Trandafir': 22, 'Crin': 5}"
+39 Trandafiri albi,518.7,{'Trandafir': 39}
+Buchet lalele albe,239.2,{'Lalea': 25}
+Crizanteme galbene,191.36,{'Crizantema': 9}
+Trandafiri portocalii rotund,213.2,{'Trandafir': 11}
+23 Trandafiri roz,339.3,{'Trandafir': 23}
+Orhidee albe,258.7,{'Orhidee': 9}
+39 Trandafiri portocalii,525.2,{'Trandafir': 39}
+Buchetul iubirii,291.2,{'Trandafir': 15}
+Alstroemeria portocalii,239.2,{'Alstroemeria': 9}
+Buchet lalele roz,239.2,{'Lalea': 25}
+Alstroemeria roz,239.2,{'Alstroemeria': 9}
+Apus de soare,408.2,"{'Trandafir': 9, 'Gerbera': 9, 'Crin': 3}"
+Buchet lalele galbene,239.2,{'Lalea': 25}
+Buchet de iertare,226.2,{'Trandafir': 13}
+Buchet de gelozie,239.2,{'Trandafir': 13}
+23 Trandafiri,339.3,{'Trandafir': 23}
+Buchet protea,226.2,{'Protea': 5}
+Lux de amanunte,473.2,"{'Orhidee': 1, 'Trandafir': 11, 'Leucadendron': 2, 'Bambus': 1}"
+Gladiole galbene,180.96,{'Gladiole': 19}
+Gerbera albe,221.13,{'Gerbera': 19}
+17 Trandafiri rosii,271.7,{'Trandafir': 17}
+Buchet roz,343.2,"{'Trandafir': 15, 'Garoafa': 20}"
+Moment alb,343.98,"{'Trandafir': 9, 'Alstroemeria': 10}"
+39 Trandafiri roz,518.7,{'Trandafir': 39}
+Buchet rosu,343.2,"{'Trandafir': 15, 'Garoafa': 20}"
+Amaryllis roz,219.7,{'Amaryllis': 5}
+Ascendent cromatic,415.35,"{'Trandafir': 16, 'Crizantema': 5}"
+Duo passion,549,{'Trandafir': 25}
+Cos exclusive,973.7,"{'Trandafir': 29, 'Lalea': 25, 'Crizantema': 9}"
+Anthurium si garoafe,317.2,"{'Anthurium': 7, 'Garoafa': 10}"
+Cos iubaret,518.7,"{'Trandafir': 10, 'Gerbera': 10, 'Crizantema': 5, 'Garoafa': 20}"
+Anthurium alb,310.7,{'Anthurium': 11}
+Crini asiatici portocalii,264.16,{'Crin': 7}
+Inima de leu,278.2,"{'Trandafir': 5, 'Anthurium': 3, 'Gerbera': 3}"
+Gerbera mix,239.2,{'Gerbera': 19}
+Buchet trandafiri portocalii,382.2,{'Trandafir': 27}
+Buchet amaryllis,219.7,{'Amaryllis': 5}
+Mix cotidian,492.7,"{'Trandafir': 12, 'Iris': 19, 'Garoafa': 10}"
+Dorinte aprinse,291.2,{'Gerbera': 21}
+Irisi mix,356.2,{'Iris': 39}
+Crizanteme roz,191.36,{'Crizantema': 9}
+Gladiole natale,168.48,{'Gladiole': 15}
+Buchetul Elena,291.2,"{'Crin': 3, 'Trandafir': 8}"
+Buchet orhidee cymbidium,453.7,{'Orhidee': 3}
+Un suspin,191.1,{'Orhidee': 1}
+Buchet 29 trandafiri,421.2,{'Trandafir': 29}
+Un semn bun,408.2,{'Trandafir': 29}
+Gladiole portocalii,180.96,{'Gladiole': 19}
+Buchet Valentine,699,{'Trandafir': 39}
+Anthurium mov,317.2,{'Anthurium': 11}
+Placere discreta,291.2,{'Gerbera': 25}
+Crizanteme mix,239.2,{'Crizantema': 17}
+Buchet trandafiri galbeni,382.2,{'Trandafir': 27}
+Cale mov deluxe,499.2,{'Cale': 19}
+Buchetul indragostitilor,224,{'Trandafir': 13}
+Moment galben,343.98,"{'Trandafir': 9, 'Alstroemeria': 10}"
+Impact cromatic,343.2,"{'Trandafir': 10, 'Garoafa': 15, 'Crizantema': 4}"
+Buchet distins,310.7,"{'Trandafir': 7, 'Gerbera': 7, 'Crizantema': 3}"
+Amaryllis albe,219.7,{'Amaryllis': 5}
+Primul pas,226.2,"{'Crin': 1, 'Trandafir': 6}"
+Buchet trandafiri bicolor,395.2,{'Trandafir': 27}
+Anthurium red,193.7,{'Anthurium': 5}
+Crini si lisianthus,382.2,"{'Crin': 5, 'Lisianthus': 10}"
+Buchet de Craciun,291.2,"{'Crin': 3, 'Trandafir': 6, 'Hypericum': 4}"
+Irisi si frezii,261.3,"{'Iris': 15, 'Frezia': 10}"
+Dorinta aprinsa,524.88,{'Trandafir': 39}
+Explozie de culori,343.2,"{'Gerbera': 19, 'Santini': 4}"
+Trandafiri cu leucadendron,252.2,"{'Trandafir': 7, 'Leucadendron': 4}"
+Valentine in roz,259,{'Trandafir': 13}
+39 Trandafiri,518.7,{'Trandafir': 39}
+Trandafiri roz rotund,213.2,{'Trandafir': 11}
+75 Trandafiri albi,947.7,{'Trandafir': 75}
+Fi Valentina mea!,259,{'Trandafir': 13}
+Ginger,291.2,{'Ginger': 7}
+Inima rosa dragobete,557,{'Trandafir': 27}
+Atingere emotionala,382.2,"{'Trandafir': 10, 'Crin': 5}"
+Ursulet indragostit,226.2,{'Trandafir': 1}
+Trandafiri albi rotund,213.2,{'Trandafir': 11}
+Aranjament de Paste,229,"{'Lalea': 10, 'Crizantema': 5}"
+Tendinte natale,213.2,{'Crizantema': 9}
+Cale si trandafiri,343.2,"{'Trandafir': 9, 'Cale': 4}"
+Valentines box,349.7,{'Trandafir': 19}
+Trandafiri sofisticati,369.2,{'Trandafir': 23}
+Flori de paste,229,"{'Lalea': 10, 'Crizantema': 5}"
+49 Trandafiri multicolori,713.7,{'Trandafir': 49}
+Galetusa cu flori,219.7,"{'Lalea': 5, 'Crizantema': 3, 'Santini': 3}"
+Crini asiatici galbeni,264.16,{'Crin': 7}
+21 Trandafiri,327.6,{'Trandafir': 21}
+Crini asiatici mix,310.7,{'Crin': 7}
+Cos lalele,349,{'Lalea': 29}
+Cale roz deluxe,499.2,{'Cale': 19}
+Orhidee cymbidium portocalii,388.7,{'Orhidee': 3}
+Orhidee cymbidium galbene,388.7,{'Orhidee': 3}
+Buchet asortat,330.2,"{'Trandafir': 7, 'Santini': 3, 'Crizantema': 5}"
+Buchet alb,343.2,"{'Trandafir': 15, 'Garoafa': 20}"
+Trandafiri Valentine,869,{'Trandafir': 59}
+Confidential,438.1,"{'Trandafir': 14, 'Trachelium': 9}"
+Cale galbene deluxe,499.2,{'Cale': 19}
+Ginger cu dragoste,388.7,{'Ginger': 11}
+Indemn idilic,388.7,{'Trandafir': 25}
+Suflet luminat,284.7,"{'Lalea': 10, 'Frezia': 10, 'Santini': 1}"
+Tot mai sus,310.7,"{'Frezia': 10, 'Crizantema': 4, 'Lalea': 3}"
+Orhidee roz,258.7,{'Orhidee': 9}
+Buchet crini albi,200.2,{'Crin': 3}
+Leucadendron cu trandafiri,278.2,"{'Trandafir': 9, 'Leucadendron': 6}"
+Un paste fericit,323.7,"{'Lalea': 8, 'Frezia': 6, 'Santini': 1}"
+Impletire azonala,187.2,"{'Trandafir': 5, 'Orhidee': 4}"
+Exotism senzual,330.2,{'Orhidee': 15}
+Orhidee galbene,213.2,{'Orhidee': 9}
+Buchet trandafiri galbeni si portocalii,283.4,{'Trandafir': 17}
+Diplomatie florala,291.2,"{'Trandafir': 6, 'Cale': 4, 'Orhidee': 5}"
+Cutie trandafiri albi,349.7,{'Trandafir': 19}
+Cosul primaverii,388.7,"{'Lalea': 20, 'Iris': 19}"
+Lalele de paste,258.7,{'Lalea': 15}
+White passion,549,{'Trandafir': 25}
+Irisi si trandafiri,284.7,"{'Iris': 15, 'Trandafir': 10}"
+Red passion,549,{'Trandafir': 25}
+Cutie trandafiri roz,349.7,{'Trandafir': 19}
+Cutie trandafiri galbeni,349.7,{'Trandafir': 19}
+Cutie trandafiri portocalii,349.7,{'Trandafir': 19}
+Cos 15 trandafiri,323.7,{'Trandafir': 15}
+Buchet fermecator,518.7,{'Trandafir': 37}
+Buchet 75 trandafiri roz,947.7,{'Trandafir': 75}
+Cutie 7 trandafiri rosii,192.4,{'Trandafir': 7}
+Cos lalele bicolor,299,{'Lalea': 25}
+Cutie 7 trandafiri roz,192.4,{'Trandafir': 7}
+Cutie 7 trandafiri albi,192.4,{'Trandafir': 7}
+Buchet de iarna,349.7,"{'Trandafir': 17, 'Hypericum': 4}"
+Cutie 7 trandafiri galbeni,192.4,{'Trandafir': 7}
+Buchet trandafiri si irisi,299,"{'Trandafir': 10, 'Iris': 15}"
+Buchet de sarbatori,440.7,"{'Trandafir': 10, 'Lisianthus': 5, 'Gerbera': 5, 'Minirosa': 3}"
+Buchet 99 lalele,865.8,{'Lalea': 99}
+Cos lalele si irisi,489,"{'Iris': 20, 'Lalea': 29}"
+Buchet 15 bujori albi,388.7,{'Bujor': 15}
+Buchet 15 bujori cyclam,388.7,{'Bujor': 15}
+Bujori cu pittosporum,323.7,{'Bujor': 9}
+Buchet 15 bujori roz,388.7,{'Bujor': 15}
+Buchet 25 bujori,674.7,{'Bujor': 25}
+Buchet 19 trandafiri albastri,323.7,{'Trandafir': 19}
