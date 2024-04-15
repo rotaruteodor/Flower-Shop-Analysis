@@ -1,245 +1,265 @@
-Product name,Competitor Price (RON),Contents,Price N (RON),Difference,Difference (%)
-Buchet bujori,297.7,{'Bujor': 11},176.0,-122.0,-0.4098085320792745
-Buchet flori Maria,362.7,"{'Trandafir': 11, 'Crizantema': 6, 'Santini': 3, 'Lisianthus': 3}",211.0,-152.0,-0.4190791287565481
-Cutie insorita,297.7,"{'Floarea-soarelui': 9, 'Lisianthus': 4}",115.0,-183.0,-0.6147127981189117
-19 Trandafiri,284.7,{'Trandafir': 19},201.0,-84.0,-0.2950474183350896
-Buchet 99 trandafiri rosii,1298.7,{'Trandafir': 99},1001.0,-298.0,-0.22946022946022945
-11 Trandafiri rosii,187.2,{'Trandafir': 11},121.0,-66.0,-0.3525641025641026
-Buchet 5 trandafiri,129.0,{'Trandafir': 5},61.0,-68.0,-0.5271317829457365
-11 Trandafiri roz,187.2,{'Trandafir': 11},121.0,-66.0,-0.3525641025641026
-11 Trandafiri albi,187.2,{'Trandafir': 11},121.0,-66.0,-0.3525641025641026
-Buchet 35 trandafiri,486.2,{'Trandafir': 35},361.0,-125.0,-0.25709584533113944
-Senzualitate magica,778.7,{'Trandafir': 59},601.0,-178.0,-0.228586105046873
-11 Trandafiri portocalii,187.2,{'Trandafir': 11},121.0,-66.0,-0.3525641025641026
-11 Trandafiri galbeni,187.2,{'Trandafir': 11},121.0,-66.0,-0.3525641025641026
-25 Trandafiri,349.7,{'Trandafir': 25},261.0,-89.0,-0.25450386045181583
-Pachet de primavara,279.0,"{'Trandafir': 4, 'Gerbera': 4, 'Crizantema': 4, 'Garoafa': 5}",122.0,-157.0,-0.5627240143369175
-Lalele roz,179.0,{'Lalea': 15},86.0,-93.0,-0.5195530726256983
-Buchet lalele multicolore,232.83,{'Lalea': 25},136.0,-97.0,-0.4166129794270498
-Buchet martisor,274.0,{'Trandafir': 15},161.0,-113.0,-0.4124087591240876
-Buchet lalele colorat,232.83,{'Lalea': 25},136.0,-97.0,-0.4166129794270498
-Buchet lalele duo,232.83,{'Lalea': 25},136.0,-97.0,-0.4166129794270498
-Elixir floral,375.7,"{'Trandafir': 7, 'Alstroemeria': 5, 'Minirosa': 4, 'Floarea-soarelui': 1}",154.0,-222.0,-0.5908969922810754
-Alb rosu,162.63,"{'Crin': 1, 'Trandafir': 4}",71.0,-92.0,-0.5657012851257456
-Buchet 19 lalele,182.0,{'Lalea': 19},106.0,-76.0,-0.4175824175824176
-Buchet de iubire,226.2,{'Trandafir': 13},141.0,-85.0,-0.37577365163572063
-Cos cu flori,362.7,"{'Alstroemeria': 20, 'Crizantema': 5}",151.0,-212.0,-0.5845051006341329
-Nuante de roz,245.7,"{'Trandafir': 6, 'Alstroemeria': 9}",116.0,-130.0,-0.5291005291005291
-23 Trandafiri albi,339.3,{'Trandafir': 23},241.0,-98.0,-0.2888299440023578
-Buchet 99 trandafiri roz,1134.97,{'Trandafir': 99},1001.0,-134.0,-0.11806479466417615
-Lalele albe,179.0,{'Lalea': 15},86.0,-93.0,-0.5195530726256983
-Buchet iris,258.7,{'Iris': 25},111.0,-148.0,-0.5720912253575571
-Martisor 35,569.0,{'Trandafir': 35},361.0,-208.0,-0.3655536028119508
-Buchetul Paula,180.7,{'Trandafir': 9},101.0,-80.0,-0.4427227448810183
-Lalele galbene,179.0,{'Lalea': 15},86.0,-93.0,-0.5195530726256983
-Love 79,1136.2,{'Trandafir': 79},801.0,-335.0,-0.29484245731385317
-Lalele albe si rosii,210.0,{'Lalea': 19},106.0,-104.0,-0.49523809523809526
-Trandafiri cu eucalipt,271.7,{'Trandafir': 15},161.0,-111.0,-0.4085388295914612
-Buchet lisianthus mov,180.18,{'Lisianthus': 7},67.0,-113.0,-0.6271506271506271
-Dulce primavara,339.0,{'Trandafir': 17},181.0,-158.0,-0.46607669616519176
-Alstroemeria albe,239.2,{'Alstroemeria': 9},56.0,-183.0,-0.7650501672240803
-Buchet lisianthus alb,180.18,{'Lisianthus': 7},67.0,-113.0,-0.6271506271506271
-Buchet de primavara,258.7,"{'Gerbera': 5, 'Crizantema': 10, 'Garoafa': 5, 'Iris': 3}",148.0,-111.0,-0.4290684190181678
-Crizanteme grena,193.7,{'Crizantema': 9},83.0,-111.0,-0.5730511099638617
-Buchet narcise,161.2,{'Narcisa': 19},87.0,-74.0,-0.4590570719602978
-Frezii galbene,265.2,{'Frezia': 25},136.0,-129.0,-0.4864253393665159
-Mesagerul dragostei,382.2,{'Trandafir': 21},221.0,-161.0,-0.42124542124542125
-Incognito,453.7,"{'Trandafir': 18, 'Alstroemeria': 15}",266.0,-188.0,-0.41437072955697596
-Cale albe deluxe,499.2,{'Cale': 19},239.0,-260.0,-0.5208333333333334
-Buchet flori martie,310.7,"{'Alstroemeria': 7, 'Lalea': 7, 'Lisianthus': 5, 'Iris': 8}",153.0,-158.0,-0.5085291277759897
-Frezii si trandafiri,278.2,"{'Trandafir': 7, 'Frezia': 14}",151.0,-127.0,-0.4565061107117182
-Buchet zambile,161.2,{'Zambila': 5},51.0,-110.0,-0.6823821339950372
-Cosulet Valentine's,249.0,{'Trandafir': 9},101.0,-148.0,-0.5943775100401606
-Crini cu santini,414.18,"{'Crin': 5, 'Crizantema': 8}",175.0,-239.0,-0.5770437973827804
-Gladiole rosii,180.96,{'Gladiole': 19},87.0,-94.0,-0.5194518125552609
-Amalgam cromatic,343.2,"{'Iris': 9, 'Santini': 4, 'Crizantema': 5, 'Trandafir': 7}",181.0,-162.0,-0.47202797202797203
-Buchet lalele rosii,239.2,{'Lalea': 25},136.0,-103.0,-0.43060200668896326
-Gladiole roz,180.96,{'Gladiole': 19},87.0,-94.0,-0.5194518125552609
-Crizanteme albe,191.36,{'Crizantema': 9},83.0,-108.0,-0.56438127090301
-Buchet zambile roz,161.2,{'Zambila': 5},51.0,-110.0,-0.6823821339950372
-Frezii albe,265.2,{'Frezia': 25},136.0,-129.0,-0.4864253393665159
-Buchet trandafiri rosii,382.2,{'Trandafir': 27},281.0,-101.0,-0.2642595499738357
-Buchet zambile albe,161.2,{'Zambila': 5},51.0,-110.0,-0.6823821339950372
-Buna seara,297.7,"{'Trandafir': 5, 'Crizantema': 5, 'Alstroemeria': 7}",136.0,-162.0,-0.5441719852200202
-Crini si crizanteme,215.28,"{'Crin': 2, 'Crizantema': 5}",91.0,-124.0,-0.5759940542549238
-Cutie trandafiri rosii,349.7,{'Trandafir': 19},201.0,-149.0,-0.426079496711467
-Buchet lalele mov,239.2,{'Lalea': 25},136.0,-103.0,-0.43060200668896326
-Zambet cald,291.2,"{'Crin': 1, 'Lisianthus': 4, 'Garoafa': 8}",87.0,-204.0,-0.7005494505494506
-Adorabil,232.7,"{'Gerbera': 7, 'Crizantema': 4}",85.0,-148.0,-0.6360120326600773
-Trandafiri galbeni rotund,213.2,{'Trandafir': 11},121.0,-92.0,-0.43151969981238275
-Buchet floarea soarelui,226.2,{'Floarea-soarelui': 11},99.0,-127.0,-0.561450044208665
-39 Trandafiri rosii,518.7,{'Trandafir': 39},401.0,-118.0,-0.22749180643917485
-Buchet mixt,200.2,"{'Gerbera': 5, 'Crizantema': 4}",73.0,-127.0,-0.6343656343656344
-Gerbera multicolore,187.2,{'Gerbera': 11},77.0,-110.0,-0.5876068376068376
-Frezii Rosii,265.2,{'Frezia': 25},136.0,-129.0,-0.4864253393665159
-Trandafiri rosii rotund,213.2,{'Trandafir': 11},121.0,-92.0,-0.43151969981238275
-Crini asiatici roz,264.16,{'Crin': 7},151.0,-113.0,-0.427771047849788
-Martisor extravagant,941.2,{'Trandafir': 39},401.0,-540.0,-0.5737356566085847
-Lalele si irisi,382.2,"{'Lalea': 19, 'Iris': 20}",186.0,-196.0,-0.5128205128205129
-Frezii mov,265.2,{'Frezia': 25},136.0,-129.0,-0.4864253393665159
-Buchet 15 trandafiri,245.7,{'Trandafir': 15},161.0,-85.0,-0.34595034595034596
-Crini si trandafiri,395.2,"{'Trandafir': 14, 'Crin': 3}",211.0,-184.0,-0.46558704453441296
-Buchet cale,252.2,{'Cale': 9},119.0,-133.0,-0.5273592386994449
-Frezii multicolore,265.2,{'Frezia': 25},136.0,-129.0,-0.4864253393665159
-Buchet iscoditor,518.7,"{'Trandafir': 19, 'Lisianthus': 9, 'Trachelium': 5}",303.0,-216.0,-0.4164256795835743
-Caldura estivala,369.2,"{'Trandafir': 10, 'Cale': 9}",219.0,-150.0,-0.40628385698808234
-17 Trandafiri albi,265.53,{'Trandafir': 17},181.0,-85.0,-0.3201144880051219
-Buchet pascal,297.7,"{'Iris': 8, 'Trandafir': 7, 'Crin': 2}",153.0,-145.0,-0.48706751763520323
-Raze de bucurie,330.2,"{'Crin': 2, 'Alstroemeria': 7, 'Trandafir': 7, 'Minirosa': 5}",206.0,-124.0,-0.37552998182919445
-Buchet 99 trandafiri,1134.97,{'Trandafir': 99},1001.0,-134.0,-0.11806479466417615
-Cos pastelat,388.7,{'Trandafir': 19},201.0,-188.0,-0.4836634936969385
-Buchet crini,343.2,{'Crin': 9},191.0,-152.0,-0.4428904428904429
-Irisi albi,226.2,{'Iris': 19},87.0,-139.0,-0.614500442086649
-Cupidon in alb,421.2,{'Trandafir': 25},261.0,-160.0,-0.3798670465337132
-23 Trandafiri galbeni,339.3,{'Trandafir': 23},241.0,-98.0,-0.2888299440023578
-17 Trandafiri galbeni,265.53,{'Trandafir': 17},181.0,-85.0,-0.3201144880051219
-Buna dimineata,385.65,"{'Crin': 3, 'Alstroemeria': 5, 'Gerbera': 4, 'Cale': 5}",180.0,-206.0,-0.534163101257617
-Martisor mix,317.2,"{'Crin': 2, 'Trandafir': 5, 'Crizantema': 5, 'Garoafa': 5}",156.0,-161.0,-0.5075662042875158
-Extravaganta estivala,369.2,"{'Trandafir': 7, 'Gerbera': 6, 'Crin': 2}",157.0,-212.0,-0.5742145178764897
-Buchet gerbera,184.28,{'Gerbera': 11},77.0,-107.0,-0.5806381593227697
-Buchet Constantin,226.2,{'Crizantema': 9},83.0,-143.0,-0.632183908045977
-Moment roz,343.98,"{'Trandafir': 9, 'Alstroemeria': 10}",151.0,-193.0,-0.5610791325077039
-39 Trandafiri multicolori,518.7,{'Trandafir': 39},401.0,-118.0,-0.22749180643917485
-Lisianthus mix,291.2,{'Lisianthus': 15},131.0,-160.0,-0.5494505494505495
-Irisi de lux,291.2,{'Iris': 25},111.0,-180.0,-0.6181318681318682
-Mix de primavara,317.2,"{'Crin': 3, 'Crizantema': 5, 'Garoafa': 12, 'Santini': 5}",177.0,-140.0,-0.44136191677175285
-Trandafiri de lux,1136.2,{'Trandafir': 99},1001.0,-135.0,-0.11881710966379158
-Garoafe mix,200.2,{'Garoafa': 19},68.0,-132.0,-0.6593406593406593
-Alstroemeria mov,239.2,{'Alstroemeria': 9},56.0,-183.0,-0.7650501672240803
-Margarete zambitoare,232.7,{'Crizantema': 9},83.0,-150.0,-0.6446067898581865
-Trei anthurium,161.2,{'Anthurium': 3},47.0,-114.0,-0.707196029776675
-Trei anthurium roz,161.2,{'Anthurium': 3},47.0,-114.0,-0.707196029776675
-Privire aprinsa,327.6,"{'Trandafir': 9, 'Crizantema': 5, 'Trandafir tros': 5}",191.0,-137.0,-0.41819291819291815
-Contrast de dragobete,291.2,"{'Trandafir': 10, 'Frezia': 11}",166.0,-125.0,-0.4292582417582418
-Special Valentine's,229.0,{'Trandafir': 11},121.0,-108.0,-0.47161572052401746
-Trandafiri Martisor,583.7,{'Trandafir': 39},401.0,-183.0,-0.31351721774884356
-Buchet anthurium roz,278.2,{'Anthurium': 9},119.0,-159.0,-0.5715312724658519
-Lux si eleganta,518.7,"{'Trandafir': 22, 'Crin': 5}",331.0,-188.0,-0.3624445729708887
-39 Trandafiri albi,518.7,{'Trandafir': 39},401.0,-118.0,-0.22749180643917485
-Buchet lalele albe,239.2,{'Lalea': 25},136.0,-103.0,-0.43060200668896326
-Crizanteme galbene,191.36,{'Crizantema': 9},83.0,-108.0,-0.56438127090301
-Trandafiri portocalii rotund,213.2,{'Trandafir': 11},121.0,-92.0,-0.43151969981238275
-23 Trandafiri roz,339.3,{'Trandafir': 23},241.0,-98.0,-0.2888299440023578
-39 Trandafiri portocalii,525.2,{'Trandafir': 39},401.0,-124.0,-0.23610053313023607
-Buchetul iubirii,291.2,{'Trandafir': 15},161.0,-130.0,-0.44642857142857145
-Alstroemeria portocalii,239.2,{'Alstroemeria': 9},56.0,-183.0,-0.7650501672240803
-Buchet lalele roz,239.2,{'Lalea': 25},136.0,-103.0,-0.43060200668896326
-Alstroemeria roz,239.2,{'Alstroemeria': 9},56.0,-183.0,-0.7650501672240803
-Apus de soare,408.2,"{'Trandafir': 9, 'Gerbera': 9, 'Crin': 3}",215.0,-193.0,-0.47280744732974034
-Buchet lalele galbene,239.2,{'Lalea': 25},136.0,-103.0,-0.43060200668896326
-Buchet de iertare,226.2,{'Trandafir': 13},141.0,-85.0,-0.37577365163572063
-Buchet de gelozie,239.2,{'Trandafir': 13},141.0,-98.0,-0.4096989966555184
-23 Trandafiri,339.3,{'Trandafir': 23},241.0,-98.0,-0.2888299440023578
-Buchet protea,226.2,{'Protea': 5},61.0,-165.0,-0.7294429708222812
-Gladiole galbene,180.96,{'Gladiole': 19},87.0,-94.0,-0.5194518125552609
-Gerbera albe,221.13,{'Gerbera': 19},125.0,-96.0,-0.4341337674671008
-17 Trandafiri rosii,271.7,{'Trandafir': 17},181.0,-91.0,-0.3349282296650718
-Buchet roz,343.2,"{'Trandafir': 15, 'Garoafa': 20}",221.0,-122.0,-0.3554778554778555
-Moment alb,343.98,"{'Trandafir': 9, 'Alstroemeria': 10}",151.0,-193.0,-0.5610791325077039
-39 Trandafiri roz,518.7,{'Trandafir': 39},401.0,-118.0,-0.22749180643917485
-Buchet rosu,343.2,"{'Trandafir': 15, 'Garoafa': 20}",221.0,-122.0,-0.3554778554778555
-Amaryllis roz,219.7,{'Amaryllis': 5},111.0,-109.0,-0.4961310878470642
-Ascendent cromatic,415.35,"{'Trandafir': 16, 'Crizantema': 5}",211.0,-204.0,-0.4911520404478151
-Duo passion,549.0,{'Trandafir': 25},261.0,-288.0,-0.5245901639344263
-Cos exclusive,973.7,"{'Trandafir': 29, 'Lalea': 25, 'Crizantema': 9}",498.0,-476.0,-0.48885693745506825
-Anthurium si garoafe,317.2,"{'Anthurium': 7, 'Garoafa': 10}",125.0,-192.0,-0.605296343001261
-Cos iubaret,518.7,"{'Trandafir': 10, 'Gerbera': 10, 'Crizantema': 5, 'Garoafa': 20}",271.0,-248.0,-0.4781183728552149
-Anthurium alb,310.7,{'Anthurium': 11},143.0,-168.0,-0.5407145156099131
-Crini asiatici portocalii,264.16,{'Crin': 7},151.0,-113.0,-0.427771047849788
-Inima de leu,278.2,"{'Trandafir': 5, 'Anthurium': 3, 'Gerbera': 3}",115.0,-163.0,-0.5859094176851186
-Gerbera mix,239.2,{'Gerbera': 19},125.0,-114.0,-0.4765886287625418
-Buchet trandafiri portocalii,382.2,{'Trandafir': 27},281.0,-101.0,-0.2642595499738357
-Buchet amaryllis,219.7,{'Amaryllis': 5},111.0,-109.0,-0.4961310878470642
-Mix cotidian,492.7,"{'Trandafir': 12, 'Iris': 19, 'Garoafa': 10}",237.0,-256.0,-0.5195859549421555
-Dorinte aprinse,291.2,{'Gerbera': 21},137.0,-154.0,-0.5288461538461539
-Irisi mix,356.2,{'Iris': 39},167.0,-189.0,-0.5306007860752386
-Crizanteme roz,191.36,{'Crizantema': 9},83.0,-108.0,-0.56438127090301
-Gladiole natale,168.48,{'Gladiole': 15},71.0,-97.0,-0.5757359924026592
-Buchetul Elena,291.2,"{'Crin': 3, 'Trandafir': 8}",151.0,-140.0,-0.4807692307692308
-Buchet 29 trandafiri,421.2,{'Trandafir': 29},301.0,-120.0,-0.2849002849002849
-Un semn bun,408.2,{'Trandafir': 29},301.0,-107.0,-0.2621264086232239
-Gladiole portocalii,180.96,{'Gladiole': 19},87.0,-94.0,-0.5194518125552609
-Buchet Valentine,699.0,{'Trandafir': 39},401.0,-298.0,-0.4263233190271817
-Anthurium mov,317.2,{'Anthurium': 11},143.0,-174.0,-0.5485498108448928
-Placere discreta,291.2,{'Gerbera': 25},161.0,-130.0,-0.44642857142857145
-Crizanteme mix,239.2,{'Crizantema': 17},147.0,-92.0,-0.38461538461538464
-Buchet trandafiri galbeni,382.2,{'Trandafir': 27},281.0,-101.0,-0.2642595499738357
-Cale mov deluxe,499.2,{'Cale': 19},239.0,-260.0,-0.5208333333333334
-Buchetul indragostitilor,224.0,{'Trandafir': 13},141.0,-83.0,-0.3705357142857143
-Moment galben,343.98,"{'Trandafir': 9, 'Alstroemeria': 10}",151.0,-193.0,-0.5610791325077039
-Impact cromatic,343.2,"{'Trandafir': 10, 'Garoafa': 15, 'Crizantema': 4}",188.0,-155.0,-0.45163170163170163
-Buchet distins,310.7,"{'Trandafir': 7, 'Gerbera': 7, 'Crizantema': 3}",147.0,-164.0,-0.5278403604763438
-Amaryllis albe,219.7,{'Amaryllis': 5},111.0,-109.0,-0.4961310878470642
-Primul pas,226.2,"{'Crin': 1, 'Trandafir': 6}",91.0,-135.0,-0.596816976127321
-Buchet trandafiri bicolor,395.2,{'Trandafir': 27},281.0,-114.0,-0.2884615384615385
-Anthurium red,193.7,{'Anthurium': 5},71.0,-123.0,-0.6350025813113062
-Crini si lisianthus,382.2,"{'Crin': 5, 'Lisianthus': 10}",191.0,-191.0,-0.49973835688121404
-Buchet de Craciun,291.2,"{'Crin': 3, 'Trandafir': 6, 'Hypericum': 4}",163.0,-128.0,-0.43956043956043955
-Irisi si frezii,261.3,"{'Iris': 15, 'Frezia': 10}",121.0,-140.0,-0.5357826253348641
-Dorinta aprinsa,524.88,{'Trandafir': 39},401.0,-124.0,-0.2362444749276025
-Explozie de culori,343.2,"{'Gerbera': 19, 'Santini': 4}",149.0,-194.0,-0.5652680652680653
-Trandafiri cu leucadendron,252.2,"{'Trandafir': 7, 'Leucadendron': 4}",101.0,-151.0,-0.598731165741475
-Valentine in roz,259.0,{'Trandafir': 13},141.0,-118.0,-0.4555984555984556
-39 Trandafiri,518.7,{'Trandafir': 39},401.0,-118.0,-0.22749180643917485
-Trandafiri roz rotund,213.2,{'Trandafir': 11},121.0,-92.0,-0.43151969981238275
-75 Trandafiri albi,947.7,{'Trandafir': 75},761.0,-187.0,-0.19731982694945657
-Fi Valentina mea!,259.0,{'Trandafir': 13},141.0,-118.0,-0.4555984555984556
-Ginger,291.2,{'Ginger': 7},81.0,-210.0,-0.7211538461538461
-Inima rosa dragobete,557.0,{'Trandafir': 27},281.0,-276.0,-0.4955116696588869
-Atingere emotionala,382.2,"{'Trandafir': 10, 'Crin': 5}",211.0,-171.0,-0.4474097331240188
-Ursulet indragostit,226.2,{'Trandafir': 1},21.0,-205.0,-0.9062776304155615
-Trandafiri albi rotund,213.2,{'Trandafir': 11},121.0,-92.0,-0.43151969981238275
-Aranjament de Paste,229.0,"{'Lalea': 10, 'Crizantema': 5}",101.0,-128.0,-0.5589519650655022
-Tendinte natale,213.2,{'Crizantema': 9},83.0,-130.0,-0.6097560975609756
-Cale si trandafiri,343.2,"{'Trandafir': 9, 'Cale': 4}",149.0,-194.0,-0.5652680652680653
-Valentines box,349.7,{'Trandafir': 19},201.0,-149.0,-0.426079496711467
-Trandafiri sofisticati,369.2,{'Trandafir': 23},241.0,-128.0,-0.3466955579631636
-Flori de paste,229.0,"{'Lalea': 10, 'Crizantema': 5}",101.0,-128.0,-0.5589519650655022
-49 Trandafiri multicolori,713.7,{'Trandafir': 49},501.0,-213.0,-0.29844472467423283
-Galetusa cu flori,219.7,"{'Lalea': 5, 'Crizantema': 3, 'Santini': 3}",78.0,-142.0,-0.646335912608102
-Crini asiatici galbeni,264.16,{'Crin': 7},151.0,-113.0,-0.427771047849788
-21 Trandafiri,327.6,{'Trandafir': 21},221.0,-107.0,-0.32661782661782657
-Crini asiatici mix,310.7,{'Crin': 7},151.0,-160.0,-0.5149662053427744
-Cos lalele,349.0,{'Lalea': 29},156.0,-193.0,-0.5530085959885387
-Cale roz deluxe,499.2,{'Cale': 19},239.0,-260.0,-0.5208333333333334
-Buchet asortat,330.2,"{'Trandafir': 7, 'Santini': 3, 'Crizantema': 5}",139.0,-191.0,-0.5784373107207753
-Buchet alb,343.2,"{'Trandafir': 15, 'Garoafa': 20}",221.0,-122.0,-0.3554778554778555
-Trandafiri Valentine,869.0,{'Trandafir': 59},601.0,-268.0,-0.3084004602991945
-Confidential,438.1,"{'Trandafir': 14, 'Trachelium': 9}",205.0,-233.0,-0.5318420451951609
-Cale galbene deluxe,499.2,{'Cale': 19},239.0,-260.0,-0.5208333333333334
-Ginger cu dragoste,388.7,{'Ginger': 11},121.0,-268.0,-0.6894777463339337
-Indemn idilic,388.7,{'Trandafir': 25},261.0,-128.0,-0.32930280421919217
-Suflet luminat,284.7,"{'Lalea': 10, 'Frezia': 10, 'Santini': 1}",117.0,-168.0,-0.5900948366701791
-Tot mai sus,310.7,"{'Frezia': 10, 'Crizantema': 4, 'Lalea': 3}",108.0,-203.0,-0.653363373028645
-Buchet crini albi,200.2,{'Crin': 3},71.0,-129.0,-0.6443556443556444
-Leucadendron cu trandafiri,278.2,"{'Trandafir': 9, 'Leucadendron': 6}",131.0,-147.0,-0.5283968368080518
-Un paste fericit,323.7,"{'Lalea': 8, 'Frezia': 6, 'Santini': 1}",87.0,-237.0,-0.732159406858202
-Buchet trandafiri galbeni si portocalii,283.4,{'Trandafir': 17},181.0,-102.0,-0.35991531404375443
-Cutie trandafiri albi,349.7,{'Trandafir': 19},201.0,-149.0,-0.426079496711467
-Cosul primaverii,388.7,"{'Lalea': 20, 'Iris': 19}",187.0,-202.0,-0.5196809879084127
-Lalele de paste,258.7,{'Lalea': 15},86.0,-173.0,-0.6687282566679552
-White passion,549.0,{'Trandafir': 25},261.0,-288.0,-0.5245901639344263
-Irisi si trandafiri,284.7,"{'Iris': 15, 'Trandafir': 10}",171.0,-114.0,-0.40042149631190727
-Red passion,549.0,{'Trandafir': 25},261.0,-288.0,-0.5245901639344263
-Cutie trandafiri roz,349.7,{'Trandafir': 19},201.0,-149.0,-0.426079496711467
-Cutie trandafiri galbeni,349.7,{'Trandafir': 19},201.0,-149.0,-0.426079496711467
-Cutie trandafiri portocalii,349.7,{'Trandafir': 19},201.0,-149.0,-0.426079496711467
-Cos 15 trandafiri,323.7,{'Trandafir': 15},161.0,-163.0,-0.503552672227371
-Buchet fermecator,518.7,{'Trandafir': 37},381.0,-138.0,-0.26604973973395024
-Buchet 75 trandafiri roz,947.7,{'Trandafir': 75},761.0,-187.0,-0.19731982694945657
-Cutie 7 trandafiri rosii,192.4,{'Trandafir': 7},81.0,-111.0,-0.5769230769230769
-Cos lalele bicolor,299.0,{'Lalea': 25},136.0,-163.0,-0.5451505016722408
-Cutie 7 trandafiri roz,192.4,{'Trandafir': 7},81.0,-111.0,-0.5769230769230769
-Cutie 7 trandafiri albi,192.4,{'Trandafir': 7},81.0,-111.0,-0.5769230769230769
-Buchet de iarna,349.7,"{'Trandafir': 17, 'Hypericum': 4}",213.0,-137.0,-0.39176436945953674
-Cutie 7 trandafiri galbeni,192.4,{'Trandafir': 7},81.0,-111.0,-0.5769230769230769
-Buchet trandafiri si irisi,299.0,"{'Trandafir': 10, 'Iris': 15}",171.0,-128.0,-0.4280936454849498
-Buchet de sarbatori,440.7,"{'Trandafir': 10, 'Lisianthus': 5, 'Gerbera': 5, 'Minirosa': 3}",211.0,-230.0,-0.5218969820739733
-Buchet 99 lalele,865.8,{'Lalea': 99},506.0,-360.0,-0.4158004158004158
-Cos lalele si irisi,489.0,"{'Iris': 20, 'Lalea': 29}",236.0,-253.0,-0.5173824130879345
-Buchet 15 bujori albi,388.7,{'Bujor': 15},236.0,-153.0,-0.3936197581682532
-Buchet 15 bujori cyclam,388.7,{'Bujor': 15},236.0,-153.0,-0.3936197581682532
-Bujori cu pittosporum,323.7,{'Bujor': 9},146.0,-178.0,-0.54989187519308
-Buchet 15 bujori roz,388.7,{'Bujor': 15},236.0,-153.0,-0.3936197581682532
-Buchet 25 bujori,674.7,{'Bujor': 25},386.0,-289.0,-0.4283385208240699
-Buchet 19 trandafiri albastri,323.7,{'Trandafir': 19},201.0,-123.0,-0.37998146431881374
+Product ID,Product name,Competitor Price (RON),Original Price (RON),Contents,Price N (RON),Difference,Difference (%)
+10418,Buchet trandafiri Maria,199.0,199.0,{'Trandafir': 7},81.0,-118.0,-0.592964824120603
+10366,Dulce primavara,439.0,439.0,{'Trandafir': 17},181.0,-258.0,-0.5876993166287016
+10423,Buchet 19 irisi mov,311.4,311.4,{'Iris': 19},87.0,-224.0,-0.7193320488118177
+10276,Buchet lalele multicolore,304.47,358.2,{'Lalea': 25},136.0,-168.0,-0.5517785003448615
+10279,Frezii si trandafiri,385.2,385.2,"{'Trandafir': 7, 'Frezia': 14}",151.0,-234.0,-0.6074766355140188
+10434,Buchet 101 lalele,1078.2,1078.2,{'Lalea': 101},516.0,-562.0,-0.5212391022073827
+1025,Frezii multicolore,367.2,367.2,{'Frezia': 25},136.0,-231.0,-0.6290849673202614
+10414,Buchet crini roz,314.28,349.2,{'Crin': 5},111.0,-203.0,-0.6459208349242714
+10370,Cutie 7 trandafiri rosii,249.0,249.0,{'Trandafir': 7},81.0,-168.0,-0.6746987951807228
+10371,Cutie 7 trandafiri roz,249.0,249.0,{'Trandafir': 7},81.0,-168.0,-0.6746987951807228
+10372,Cutie 7 trandafiri albi,249.0,249.0,{'Trandafir': 7},81.0,-168.0,-0.6746987951807228
+10299,Pachet de primavara,329.0,329.0,"{'Trandafir': 4, 'Gerbera': 4, 'Crizantema': 4, 'Garoafa': 5}",122.0,-207.0,-0.6291793313069909
+10413,Simfonie Florala,417.6,417.6,"{'Trandafir': 7, 'Gerbera': 7, 'Crizantema': 4, 'Garoafa': 7, 'Hypericum': 2}",192.0,-226.0,-0.5411877394636015
+101,19 Trandafiri,394.2,394.2,{'Trandafir': 19},201.0,-193.0,-0.48959918822932524
+10298,Buchet 99 trandafiri rosii,1690.31,1798.2,{'Trandafir': 99},1001.0,-689.0,-0.4076175376114441
+10415,Buchet 201 trandafiri,3238.38,3598.2,{'Trandafir': 201},2021.0,-1217.0,-0.3758051865438892
+1014,11 Trandafiri rosii,259.2,259.2,{'Trandafir': 11},121.0,-138.0,-0.5324074074074074
+10277,Buchet 5 trandafiri,149.0,149.0,{'Trandafir': 5},61.0,-88.0,-0.5906040268456376
+1017,11 Trandafiri roz,259.2,259.2,{'Trandafir': 11},121.0,-138.0,-0.5324074074074074
+1016,11 Trandafiri albi,259.2,259.2,{'Trandafir': 11},121.0,-138.0,-0.5324074074074074
+10281,Buchet 35 trandafiri,673.2,673.2,{'Trandafir': 35},361.0,-312.0,-0.46345811051693403
+10162,Senzualitate magica,1078.2,1078.2,{'Trandafir': 59},601.0,-477.0,-0.44240400667779634
+10106,11 Trandafiri portocalii,259.2,259.2,{'Trandafir': 11},121.0,-138.0,-0.5324074074074074
+1015,11 Trandafiri galbeni,259.2,259.2,{'Trandafir': 11},121.0,-138.0,-0.5324074074074074
+10120,25 Trandafiri,484.2,484.2,{'Trandafir': 25},261.0,-223.0,-0.46055349029326725
+1032,Lalele roz,179.0,179.0,{'Lalea': 15},86.0,-93.0,-0.5195530726256983
+10169,Buchet martisor,374.0,374.0,{'Trandafir': 15},161.0,-213.0,-0.56951871657754
+10378,Buchet lalele colorat,304.47,358.2,{'Lalea': 25},136.0,-168.0,-0.5517785003448615
+10379,Buchet lalele duo,304.47,358.2,{'Lalea': 25},136.0,-168.0,-0.5517785003448615
+10377,Elixir floral,468.18,520.2,"{'Trandafir': 7, 'Alstroemeria': 5, 'Minirosa': 4, 'Floarea-soarelui': 1}",154.0,-314.0,-0.6706822162416165
+10307,Cos cu flori,502.2,502.2,"{'Alstroemeria': 20, 'Crizantema': 5}",151.0,-351.0,-0.6989247311827957
+10225,Alb rosu,225.18,250.2,"{'Crin': 1, 'Trandafir': 4}",71.0,-154.0,-0.6838973265831779
+102,Buchet de iubire,340.2,340.2,{'Trandafir': 13},141.0,-199.0,-0.5849500293944738
+10380,Buchet 19 lalele,219.0,219.0,{'Lalea': 19},106.0,-113.0,-0.5159817351598174
+10209,Nuante de roz,340.2,340.2,"{'Trandafir': 6, 'Alstroemeria': 9}",116.0,-224.0,-0.6584362139917695
+1043,23 Trandafiri albi,469.8,469.8,{'Trandafir': 23},241.0,-229.0,-0.4874414644529587
+1035,Buchet iris,412.2,412.2,{'Iris': 25},111.0,-301.0,-0.730228044638525
+10302,Buchet 99 trandafiri roz,1602.18,1780.2,{'Trandafir': 99},1001.0,-601.0,-0.37511390730130195
+1030,Lalele albe,179.0,179.0,{'Lalea': 15},86.0,-93.0,-0.5195530726256983
+10401,Buchet 7 trandafiri,179.0,179.0,{'Trandafir': 7},81.0,-98.0,-0.547486033519553
+10253,Lalele albe si rosii,219.0,219.0,{'Lalea': 19},106.0,-113.0,-0.5159817351598174
+10301,Martisor 35,879.0,879.0,{'Trandafir': 35},361.0,-518.0,-0.5893060295790671
+1031,Lalele galbene,179.0,179.0,{'Lalea': 15},86.0,-93.0,-0.5195530726256983
+1050,Buchetul Paula,250.2,250.2,{'Trandafir': 9},101.0,-149.0,-0.595523581135092
+10300,Love 79,1573.2,1573.2,{'Trandafir': 79},801.0,-772.0,-0.49071955250444954
+10326,Buchet flori martie,430.2,430.2,"{'Alstroemeria': 7, 'Lalea': 7, 'Lisianthus': 5, 'Iris': 8}",153.0,-277.0,-0.6438865643886564
+1091,Buchet lisianthus mov,277.2,277.2,{'Lisianthus': 7},67.0,-210.0,-0.7575757575757576
+10308,Trandafiri cu eucalipt,376.2,376.2,{'Trandafir': 15},161.0,-215.0,-0.57150451887294
+10187,Buchet narcise,223.2,223.2,{'Narcisa': 19},87.0,-136.0,-0.6093189964157706
+1045,Buchet lisianthus alb,277.2,277.2,{'Lisianthus': 7},67.0,-210.0,-0.7575757575757576
+1053,Alstroemeria albe,331.2,331.2,{'Alstroemeria': 9},56.0,-275.0,-0.8303140096618358
+10249,Buchet de primavara,358.2,358.2,"{'Gerbera': 5, 'Crizantema': 10, 'Garoafa': 5, 'Iris': 3}",148.0,-210.0,-0.5862646566164155
+10259,Crizanteme grena,268.2,268.2,{'Crizantema': 9},83.0,-185.0,-0.6897837434750187
+10129,Gladiole rosii,250.56,313.2,{'Gladiole': 19},87.0,-164.0,-0.6545338441890166
+1041,Cale albe deluxe,691.2,691.2,{'Cale': 19},239.0,-452.0,-0.6539351851851851
+1027,Frezii galbene,367.2,367.2,{'Frezia': 25},136.0,-231.0,-0.6290849673202614
+10315,Incognito,628.2,628.2,"{'Trandafir': 18, 'Alstroemeria': 15}",266.0,-362.0,-0.5762496020375676
+10122,Crizanteme albe,331.2,331.2,{'Crizantema': 9},83.0,-248.0,-0.748792270531401
+10167,Buchet zambile,223.2,223.2,{'Zambila': 5},51.0,-172.0,-0.7706093189964158
+10160,Cosulet Valentine's,249.0,249.0,{'Trandafir': 9},101.0,-148.0,-0.5943775100401606
+10102,Buchet lalele rosii,298.08,331.2,{'Lalea': 25},136.0,-162.0,-0.5434782608695653
+10128,Gladiole roz,250.56,313.2,{'Gladiole': 19},87.0,-164.0,-0.6545338441890166
+1061,Crini cu santini,573.48,637.2,"{'Crin': 5, 'Crizantema': 8}",175.0,-398.0,-0.6940085094510706
+10287,Amalgam cromatic,475.2,475.2,"{'Iris': 9, 'Santini': 4, 'Crizantema': 5, 'Trandafir': 7}",181.0,-294.0,-0.6186868686868687
+1026,Frezii albe,367.2,367.2,{'Frezia': 25},136.0,-231.0,-0.6290849673202614
+10201,Buchet trandafiri rosii,529.2,529.2,{'Trandafir': 27},281.0,-248.0,-0.4686318972033257
+10345,Cutie trandafiri rosii,484.2,484.2,{'Trandafir': 19},201.0,-283.0,-0.5844692275919042
+10179,Buchet zambile roz,223.2,223.2,{'Zambila': 5},51.0,-172.0,-0.7706093189964158
+10267,Crini si crizanteme,298.08,331.2,"{'Crin': 2, 'Crizantema': 5}",91.0,-207.0,-0.6944444444444445
+10152,Buna seara,412.2,412.2,"{'Trandafir': 5, 'Crizantema': 5, 'Alstroemeria': 7}",136.0,-276.0,-0.6695778748180495
+10297,39 Trandafiri rosii,718.2,718.2,{'Trandafir': 39},401.0,-317.0,-0.44138123085491504
+10168,Buchet zambile albe,223.2,223.2,{'Zambila': 5},51.0,-172.0,-0.7706093189964158
+10150,Buchet lalele mov,331.2,331.2,{'Lalea': 25},136.0,-195.0,-0.588768115942029
+10289,Buchet cale,349.2,349.2,{'Cale': 9},119.0,-230.0,-0.6586483390607102
+10310,Adorabil,322.2,322.2,"{'Gerbera': 7, 'Crizantema': 4}",85.0,-237.0,-0.7355679702048418
+10206,Buchet floarea soarelui,313.2,313.2,{'Floarea-soarelui': 11},99.0,-214.0,-0.6832694763729247
+10342,Buchet 15 trandafiri,358.2,358.2,{'Trandafir': 15},161.0,-197.0,-0.5499720826353992
+107,Zambet cald,403.2,403.2,"{'Crin': 1, 'Lisianthus': 4, 'Garoafa': 8}",87.0,-316.0,-0.7837301587301587
+10183,Lalele si irisi,529.2,529.2,"{'Lalea': 19, 'Iris': 20}",186.0,-343.0,-0.6481481481481481
+10230,Trandafiri galbeni rotund,295.2,295.2,{'Trandafir': 11},121.0,-174.0,-0.5894308943089431
+1029,Frezii Rosii,367.2,367.2,{'Frezia': 25},136.0,-231.0,-0.6290849673202614
+1028,Frezii mov,367.2,367.2,{'Frezia': 25},136.0,-231.0,-0.6290849673202614
+10210,Buchet mixt,277.2,277.2,"{'Gerbera': 5, 'Crizantema': 4}",73.0,-204.0,-0.735930735930736
+10233,Trandafiri rosii rotund,295.2,295.2,{'Trandafir': 11},121.0,-174.0,-0.5894308943089431
+10291,Buchet 99 trandafiri,1780.2,1780.2,{'Trandafir': 99},1001.0,-779.0,-0.4375912818784406
+10217,Gerbera multicolore,259.2,259.2,{'Gerbera': 11},77.0,-182.0,-0.7021604938271605
+10263,Crini si trandafiri,547.2,547.2,"{'Trandafir': 14, 'Crin': 3}",211.0,-336.0,-0.6140350877192982
+1024,Crini asiatici roz,457.2,457.2,{'Crin': 7},151.0,-306.0,-0.6692913385826772
+10108,17 Trandafiri albi,367.65,387.0,{'Trandafir': 17},181.0,-187.0,-0.5086359309125528
+10170,Martisor extravagant,1303.2,1303.2,{'Trandafir': 39},401.0,-902.0,-0.6921424186617556
+10336,Buchet iscoditor,718.2,718.2,"{'Trandafir': 19, 'Lisianthus': 9, 'Trachelium': 5}",303.0,-415.0,-0.5778334725703146
+10151,Buna dimineata,533.97,628.2,"{'Crin': 3, 'Alstroemeria': 5, 'Gerbera': 4, 'Cale': 5}",180.0,-354.0,-0.6629585931793921
+10364,Irisi si frezii,361.8,361.8,"{'Iris': 15, 'Frezia': 10}",121.0,-241.0,-0.6661138750690989
+1033,Irisi albi,313.2,313.2,{'Iris': 19},87.0,-226.0,-0.7215836526181354
+10118,Buchet crini,475.2,475.2,{'Crin': 9},191.0,-284.0,-0.5976430976430976
+10109,17 Trandafiri galbeni,367.65,387.0,{'Trandafir': 17},181.0,-187.0,-0.5086359309125528
+10303,Cos pastelat,538.2,538.2,{'Trandafir': 19},201.0,-337.0,-0.6261612783351913
+10306,Buchet pascal,412.2,412.2,"{'Iris': 8, 'Trandafir': 7, 'Crin': 2}",153.0,-259.0,-0.6283357593401262
+10296,Caldura estivala,511.2,511.2,"{'Trandafir': 10, 'Cale': 9}",219.0,-292.0,-0.5712050078247262
+10325,Margarete zambitoare,358.2,358.2,{'Crizantema': 9},83.0,-275.0,-0.7677275265214965
+10161,Raze de bucurie,457.2,457.2,"{'Crin': 2, 'Alstroemeria': 7, 'Trandafir': 7, 'Minirosa': 5}",206.0,-251.0,-0.5489938757655293
+1099,Buchet lalele albe,298.08,331.2,{'Lalea': 25},136.0,-162.0,-0.5434782608695653
+1040,Buchet gerbera,255.15,340.2,{'Gerbera': 11},77.0,-178.0,-0.6976288457769939
+1055,39 Trandafiri multicolori,718.2,718.2,{'Trandafir': 39},401.0,-317.0,-0.44138123085491504
+10255,Buchet Constantin,313.2,313.2,{'Crizantema': 9},83.0,-230.0,-0.7343550446998723
+10295,Cupidon in alb,583.2,583.2,{'Trandafir': 25},261.0,-322.0,-0.5521262002743483
+10165,Extravaganta estivala,511.2,511.2,"{'Trandafir': 7, 'Gerbera': 6, 'Crin': 2}",157.0,-354.0,-0.6924882629107981
+10158,Special Valentine's,265.05,279.0,{'Trandafir': 11},121.0,-144.0,-0.5432937181663837
+10273,Martisor mix,439.2,439.2,"{'Crin': 2, 'Trandafir': 5, 'Crizantema': 5, 'Garoafa': 5}",156.0,-283.0,-0.6443533697632059
+10218,Irisi de lux,403.2,403.2,{'Iris': 25},111.0,-292.0,-0.7242063492063492
+10257,Lisianthus mix,403.2,403.2,{'Lisianthus': 15},131.0,-272.0,-0.6746031746031746
+1044,23 Trandafiri galbeni,469.8,469.8,{'Trandafir': 23},241.0,-229.0,-0.4874414644529587
+1085,Gerbera albe,306.18,340.2,{'Gerbera': 19},125.0,-181.0,-0.5911555294271343
+10181,Moment roz,476.28,529.2,"{'Trandafir': 9, 'Alstroemeria': 10}",151.0,-325.0,-0.6823717141177459
+10121,Garoafe mix,277.2,277.2,{'Garoafa': 19},68.0,-209.0,-0.753968253968254
+10188,Mix de primavara,439.2,439.2,"{'Crin': 3, 'Crizantema': 5, 'Garoafa': 12, 'Santini': 5}",177.0,-262.0,-0.5965391621129327
+1060,Alstroemeria mov,331.2,331.2,{'Alstroemeria': 9},56.0,-275.0,-0.8303140096618358
+10123,Crizanteme galbene,331.2,331.2,{'Crizantema': 9},83.0,-248.0,-0.748792270531401
+1010,Trandafiri de lux,1780.2,1780.2,{'Trandafir': 99},1001.0,-779.0,-0.4375912818784406
+1077,Buchet anthurium roz,385.2,385.2,{'Anthurium': 9},119.0,-266.0,-0.6905503634475597
+10101,Buchet lalele roz,298.08,331.2,{'Lalea': 25},136.0,-162.0,-0.5434782608695653
+10104,39 Trandafiri portocalii,727.2,727.2,{'Trandafir': 39},401.0,-326.0,-0.44829482948294824
+10280,Contrast de dragobete,403.2,403.2,"{'Trandafir': 10, 'Frezia': 11}",166.0,-237.0,-0.5877976190476191
+10153,Lux si eleganta,718.2,718.2,"{'Trandafir': 22, 'Crin': 5}",331.0,-387.0,-0.5388471177944861
+10107,17 Trandafiri rosii,376.2,396.0,{'Trandafir': 17},181.0,-195.0,-0.518341307814992
+1058,39 Trandafiri albi,718.2,718.2,{'Trandafir': 39},401.0,-317.0,-0.44138123085491504
+10239,Privire aprinsa,453.6,453.6,"{'Trandafir': 9, 'Crizantema': 5, 'Trandafir tros': 5}",191.0,-263.0,-0.5798059964726631
+1090,Buchet protea,313.2,313.2,{'Protea': 5},61.0,-252.0,-0.8045977011494253
+10231,Trandafiri portocalii rotund,295.2,295.2,{'Trandafir': 11},121.0,-174.0,-0.5894308943089431
+10185,Trandafiri Martisor,808.2,808.2,{'Trandafir': 39},401.0,-407.0,-0.5035882207374413
+10100,Buchet lalele galbene,331.2,331.2,{'Lalea': 25},136.0,-195.0,-0.588768115942029
+10189,Apus de soare,565.2,565.2,"{'Trandafir': 9, 'Gerbera': 9, 'Crin': 3}",215.0,-350.0,-0.619249823071479
+1059,Alstroemeria portocalii,331.2,331.2,{'Alstroemeria': 9},56.0,-275.0,-0.8303140096618358
+1052,Alstroemeria roz,331.2,331.2,{'Alstroemeria': 9},56.0,-275.0,-0.8303140096618358
+1042,23 Trandafiri,469.8,469.8,{'Trandafir': 23},241.0,-229.0,-0.4874414644529587
+10256,Buchetul Elena,403.2,403.2,"{'Crin': 3, 'Trandafir': 8}",151.0,-252.0,-0.625
+10194,Crini asiatici portocalii,365.76,457.2,{'Crin': 7},151.0,-215.0,-0.587817147856518
+10340,Duo passion,629.1,699.0,{'Trandafir': 25},261.0,-368.0,-0.5849626450484819
+1046,23 Trandafiri roz,469.8,469.8,{'Trandafir': 23},241.0,-229.0,-0.4874414644529587
+10112,Buchet de gelozie,331.2,331.2,{'Trandafir': 13},141.0,-190.0,-0.5736714975845411
+10111,Buchet de iertare,313.2,313.2,{'Trandafir': 13},141.0,-172.0,-0.5491698595146871
+10127,Gladiole galbene,250.56,313.2,{'Gladiole': 19},87.0,-164.0,-0.6545338441890166
+1057,39 Trandafiri roz,718.2,718.2,{'Trandafir': 39},401.0,-317.0,-0.44138123085491504
+10252,Buchet roz,475.2,475.2,"{'Trandafir': 15, 'Garoafa': 20}",221.0,-254.0,-0.5345117845117845
+10154,Buchet amaryllis,304.2,304.2,{'Amaryllis': 5},111.0,-193.0,-0.6344510190664037
+10305,Cos exclusive,1348.2,1348.2,"{'Trandafir': 29, 'Lalea': 25, 'Crizantema': 9}",498.0,-850.0,-0.6304702566384809
+10200,Buchet trandafiri portocalii,529.2,529.2,{'Trandafir': 27},281.0,-248.0,-0.4686318972033257
+10205,Inima de leu,385.2,385.2,"{'Trandafir': 5, 'Anthurium': 3, 'Gerbera': 3}",115.0,-270.0,-0.7009345794392523
+10124,Crizanteme roz,331.2,331.2,{'Crizantema': 9},83.0,-248.0,-0.748792270531401
+10110,Buchetul iubirii,403.2,403.2,{'Trandafir': 15},161.0,-242.0,-0.6001984126984127
+10250,Buchet rosu,475.2,475.2,"{'Trandafir': 15, 'Garoafa': 20}",221.0,-254.0,-0.5345117845117845
+10337,Cos iubaret,718.2,718.2,"{'Trandafir': 10, 'Gerbera': 10, 'Crizantema': 5, 'Garoafa': 20}",271.0,-447.0,-0.6223893065998328
+10180,Moment alb,476.28,529.2,"{'Trandafir': 9, 'Alstroemeria': 10}",151.0,-325.0,-0.6823717141177459
+10155,Amaryllis roz,304.2,304.2,{'Amaryllis': 5},111.0,-193.0,-0.6344510190664037
+10272,Gerbera mix,331.2,331.2,{'Gerbera': 19},125.0,-206.0,-0.6219806763285024
+10157,Buchet Valentine,859.0,859.0,{'Trandafir': 39},401.0,-458.0,-0.5331781140861467
+1081,Anthurium alb,430.2,430.2,{'Anthurium': 11},143.0,-287.0,-0.6671315667131567
+10311,Mix cotidian,682.2,682.2,"{'Trandafir': 12, 'Iris': 19, 'Garoafa': 10}",237.0,-445.0,-0.6523013778950454
+1034,Irisi mix,493.2,493.2,{'Iris': 39},167.0,-326.0,-0.6609894566098946
+1078,Anthurium si garoafe,439.2,439.2,"{'Anthurium': 7, 'Garoafa': 10}",125.0,-314.0,-0.714936247723133
+1063,Gladiole natale,233.28,259.2,{'Gladiole': 15},71.0,-162.0,-0.6944444444444444
+10262,Ascendent cromatic,575.1,639.0,"{'Trandafir': 16, 'Crizantema': 5}",211.0,-364.0,-0.6329334028864545
+10202,Buchet trandafiri galbeni,529.2,529.2,{'Trandafir': 27},281.0,-248.0,-0.4686318972033257
+10156,Amaryllis albe,304.2,304.2,{'Amaryllis': 5},111.0,-193.0,-0.6344510190664037
+10193,Un semn bun,565.2,565.2,{'Trandafir': 29},301.0,-264.0,-0.4670912951167728
+1088,Cale mov deluxe,691.2,691.2,{'Cale': 19},239.0,-452.0,-0.6539351851851851
+10309,Buchet distins,430.2,430.2,"{'Trandafir': 7, 'Gerbera': 7, 'Crizantema': 3}",147.0,-283.0,-0.6578335657833566
+10204,Dorinte aprinse,403.2,403.2,{'Gerbera': 21},137.0,-266.0,-0.6597222222222222
+10142,Placere discreta,403.2,403.2,{'Gerbera': 25},161.0,-242.0,-0.6001984126984127
+10266,Buchet 29 trandafiri,583.2,583.2,{'Trandafir': 29},301.0,-282.0,-0.4835390946502057
+10182,Moment galben,476.28,529.2,"{'Trandafir': 9, 'Alstroemeria': 10}",151.0,-325.0,-0.6823717141177459
+10136,Buchetul indragostitilor,299.0,299.0,{'Trandafir': 13},141.0,-158.0,-0.5284280936454849
+10199,Impact cromatic,475.2,475.2,"{'Trandafir': 10, 'Garoafa': 15, 'Crizantema': 4}",188.0,-287.0,-0.603956228956229
+1080,Anthurium mov,439.2,439.2,{'Anthurium': 11},143.0,-296.0,-0.6739526411657559
+10333,Aranjament de Paste,259.0,259.0,"{'Lalea': 10, 'Crizantema': 5}",101.0,-158.0,-0.61003861003861
+1013,Anthurium red,268.2,268.2,{'Anthurium': 5},71.0,-197.0,-0.7345264727815064
+10130,Gladiole portocalii,250.56,313.2,{'Gladiole': 19},87.0,-164.0,-0.6545338441890166
+106,Primul pas,313.2,313.2,"{'Crin': 1, 'Trandafir': 6}",91.0,-222.0,-0.7088122605363985
+10243,75 Trandafiri albi,1312.2,1312.2,{'Trandafir': 75},761.0,-551.0,-0.4199055022100289
+10203,Buchet trandafiri bicolor,547.2,547.2,{'Trandafir': 27},281.0,-266.0,-0.48611111111111105
+10190,Explozie de culori,475.2,475.2,"{'Gerbera': 19, 'Santini': 4}",149.0,-326.0,-0.6860269360269361
+10117,Crizanteme mix,331.2,331.2,{'Crizantema': 17},147.0,-184.0,-0.5555555555555556
+10270,Crini si lisianthus,529.2,529.2,"{'Crin': 5, 'Lisianthus': 10}",191.0,-338.0,-0.6386999244142101
+10324,Inima rosa dragobete,749.0,749.0,{'Trandafir': 27},281.0,-468.0,-0.6248331108144193
+10334,Flori de paste,249.0,249.0,"{'Lalea': 10, 'Crizantema': 5}",101.0,-148.0,-0.5943775100401606
+10341,Valentines box,499.0,499.0,{'Trandafir': 19},201.0,-298.0,-0.5971943887775552
+1056,39 Trandafiri,718.2,718.2,{'Trandafir': 39},401.0,-317.0,-0.44138123085491504
+10135,Valentine in roz,324.0,324.0,{'Trandafir': 13},141.0,-183.0,-0.5648148148148148
+10134,Fi Valentina mea!,324.0,324.0,{'Trandafir': 13},141.0,-183.0,-0.5648148148148148
+10229,Trandafiri roz rotund,295.2,295.2,{'Trandafir': 11},121.0,-174.0,-0.5894308943089431
+10331,Galetusa cu flori,304.2,304.2,"{'Lalea': 5, 'Crizantema': 3, 'Santini': 3}",78.0,-226.0,-0.7429322813938198
+10119,Crini asiatici galbeni,365.76,457.2,{'Crin': 7},151.0,-215.0,-0.587817147856518
+10282,Cale si trandafiri,475.2,475.2,"{'Trandafir': 9, 'Cale': 4}",149.0,-326.0,-0.6860269360269361
+10232,Trandafiri albi rotund,295.2,295.2,{'Trandafir': 11},121.0,-174.0,-0.5894308943089431
+10265,Atingere emotionala,529.2,529.2,"{'Trandafir': 10, 'Crin': 5}",211.0,-318.0,-0.600907029478458
+10191,Dorinta aprinsa,726.75,765.0,{'Trandafir': 39},401.0,-326.0,-0.44857241142070864
+10132,Trandafiri cu leucadendron,349.2,349.2,"{'Trandafir': 7, 'Leucadendron': 4}",101.0,-248.0,-0.7101947308132875
+1062,Ginger,403.2,403.2,{'Ginger': 7},81.0,-322.0,-0.7986111111111112
+10327,Cos lalele,349.0,349.0,{'Lalea': 29},156.0,-193.0,-0.5530085959885387
+10105,21 Trandafiri,453.6,453.6,{'Trandafir': 21},221.0,-233.0,-0.513668430335097
+10133,Trandafiri Valentine,1299.0,1299.0,{'Trandafir': 59},601.0,-698.0,-0.5373364126250962
+10330,Tot mai sus,430.2,430.2,"{'Frezia': 10, 'Crizantema': 4, 'Lalea': 3}",108.0,-322.0,-0.7484890748489075
+10264,49 Trandafiri multicolori,988.2,988.2,{'Trandafir': 49},501.0,-487.0,-0.49281521959117586
+10208,Tendinte natale,295.2,295.2,{'Crizantema': 9},83.0,-212.0,-0.7181571815718157
+10223,Trandafiri sofisticati,511.2,511.2,{'Trandafir': 23},241.0,-270.0,-0.528169014084507
+108,Crini asiatici mix,430.2,430.2,{'Crin': 7},151.0,-279.0,-0.6485355648535565
+1089,Cale roz deluxe,691.2,691.2,{'Cale': 19},239.0,-452.0,-0.6539351851851851
+10328,Suflet luminat,394.2,394.2,"{'Lalea': 10, 'Frezia': 10, 'Santini': 1}",117.0,-277.0,-0.7026889903602233
+10214,Ursulet indragostit,313.2,313.2,{'Trandafir': 1},21.0,-292.0,-0.9323116219667944
+1087,Cale galbene deluxe,691.2,691.2,{'Cale': 19},239.0,-452.0,-0.6539351851851851
+10317,Confidential,606.6,606.6,"{'Trandafir': 14, 'Trachelium': 9}",205.0,-402.0,-0.6627101879327398
+10251,Buchet alb,475.2,475.2,"{'Trandafir': 15, 'Garoafa': 20}",221.0,-254.0,-0.5345117845117845
+10417,Mesagerul dragostei,619.2,619.2,{'Trandafir': 21},221.0,-398.0,-0.6427648578811369
+10344,Cosul primaverii,538.2,538.2,"{'Lalea': 20, 'Iris': 19}",187.0,-351.0,-0.6521739130434782
+10245,Buchet asortat,457.2,457.2,"{'Trandafir': 7, 'Santini': 3, 'Crizantema': 5}",139.0,-318.0,-0.6955380577427822
+1079,Ginger cu dragoste,538.2,538.2,{'Ginger': 11},121.0,-417.0,-0.7748049052396878
+10222,Buchet crini albi,277.2,277.2,{'Crin': 3},71.0,-206.0,-0.7431457431457432
+10329,Un paste fericit,448.2,448.2,"{'Lalea': 8, 'Frezia': 6, 'Santini': 1}",87.0,-361.0,-0.8054439982150826
+10207,Indemn idilic,538.2,538.2,{'Trandafir': 25},261.0,-277.0,-0.514678558156819
+10332,Lalele de paste,286.56,358.2,{'Lalea': 15},86.0,-201.0,-0.7014237855946399
+10184,Leucadendron cu trandafiri,385.2,385.2,"{'Trandafir': 9, 'Leucadendron': 6}",131.0,-254.0,-0.6593977154724818
+10346,Cutie trandafiri albi,484.2,484.2,{'Trandafir': 19},201.0,-283.0,-0.5844692275919042
+10339,White passion,629.1,699.0,{'Trandafir': 25},261.0,-368.0,-0.5849626450484819
+10268,Buchet trandafiri galbeni si portocalii,392.4,392.4,{'Trandafir': 17},181.0,-211.0,-0.5377166156982671
+10343,Irisi si trandafiri,354.78,394.2,"{'Iris': 15, 'Trandafir': 10}",171.0,-184.0,-0.518631264445572
+10338,Red passion,629.1,699.0,{'Trandafir': 25},261.0,-368.0,-0.5849626450484819
+10348,Cutie trandafiri roz,484.2,484.2,{'Trandafir': 19},201.0,-283.0,-0.5844692275919042
+10349,Cutie trandafiri portocalii,484.2,484.2,{'Trandafir': 19},201.0,-283.0,-0.5844692275919042
+10347,Cutie trandafiri galbeni,484.2,484.2,{'Trandafir': 19},201.0,-283.0,-0.5844692275919042
+10361,Cos 15 trandafiri,448.2,448.2,{'Trandafir': 15},161.0,-287.0,-0.640339134315038
+10383,Buchet flori Maria,502.2,502.2,"{'Trandafir': 11, 'Crizantema': 6, 'Santini': 3, 'Lisianthus': 3}",211.0,-291.0,-0.5794504181600956
+10360,Buchet 75 trandafiri roz,1312.2,1312.2,{'Trandafir': 75},761.0,-551.0,-0.4199055022100289
+10362,Buchet fermecator,718.2,718.2,{'Trandafir': 37},381.0,-337.0,-0.46922862712336394
+10365,Cos lalele bicolor,299.0,299.0,{'Lalea': 25},136.0,-163.0,-0.5451505016722408
+10396,Buchet 19 trandafiri albastri,448.2,448.2,{'Trandafir': 19},201.0,-247.0,-0.5510932619366354
+10367,Buchet de iarna,484.2,484.2,"{'Trandafir': 17, 'Hypericum': 4}",213.0,-271.0,-0.5596860801321768
+10389,Buchet bujori,412.2,412.2,{'Bujor': 11},176.0,-236.0,-0.5725376031052887
+10373,Cutie 7 trandafiri galbeni,249.0,249.0,{'Trandafir': 7},81.0,-168.0,-0.6746987951807228
+10369,Buchet trandafiri si irisi,352.8,352.8,"{'Trandafir': 10, 'Iris': 15}",171.0,-182.0,-0.5158730158730158
+10382,Buchet de sarbatori,610.2,610.2,"{'Trandafir': 10, 'Lisianthus': 5, 'Gerbera': 5, 'Minirosa': 3}",211.0,-399.0,-0.6538839724680432
+10394,Cutie insorita,412.2,412.2,"{'Floarea-soarelui': 9, 'Lisianthus': 4}",115.0,-297.0,-0.7205240174672489
+10395,Bujori cu pittosporum,448.2,448.2,{'Bujor': 9},146.0,-302.0,-0.6738063364569389
+10391,Buchet 15 bujori roz,538.2,538.2,{'Bujor': 15},236.0,-302.0,-0.5611296915644741
+10387,Buchet 99 lalele,1078.2,1078.2,{'Lalea': 99},506.0,-572.0,-0.5305138193285105
+10393,Buchet 25 bujori,934.2,934.2,{'Bujor': 25},386.0,-548.0,-0.5865981588524941
+10392,Buchet 15 bujori cyclam,538.2,538.2,{'Bujor': 15},236.0,-302.0,-0.5611296915644741
+10388,Cos lalele si irisi,489.0,489.0,"{'Iris': 20, 'Lalea': 29}",236.0,-253.0,-0.5173824130879345
+10398,Trandafiri albi si rosii cu trachelium,2023.38,2248.2,"{'Trandafir': 79, 'Trachelium': 10}",861.0,-1162.0,-0.5742865897656396
+10404,Buchet Martisor 7,179.0,179.0,{'Trandafir': 7},81.0,-98.0,-0.547486033519553
+10390,Buchet 15 bujori albi,538.2,538.2,{'Bujor': 15},236.0,-302.0,-0.5611296915644741
+10288,Buchet de Craciun,403.2,403.2,"{'Crin': 3, 'Trandafir': 6, 'Hypericum': 4}",163.0,-240.0,-0.5952380952380952
+10403,Buchet 101 lalele rosii,1086.62,1234.8,{'Lalea': 101},516.0,-571.0,-0.5254826894406509
+10416,Buchet minirosa,430.2,430.2,{'Minirosa': 19},201.0,-229.0,-0.5323105532310554
+10405,Buchet Martisor 11,279.0,279.0,{'Trandafir': 11},121.0,-158.0,-0.5663082437275986
+10411,Inima trandafiri albi si roz,599.0,599.0,{'Trandafir': 25},261.0,-338.0,-0.5642737896494157
+10406,Buchet Martisor 15,349.0,349.0,{'Trandafir': 15},161.0,-188.0,-0.5386819484240688
+10402,Buchet 101 lalele albe si rosii,1086.62,1234.8,{'Lalea': 101},516.0,-571.0,-0.5254826894406509
+10407,Buchet Martisor 21,529.0,529.0,{'Trandafir': 21},221.0,-308.0,-0.5822306238185255
+10408,Buchet Martisor 25,629.0,629.0,{'Trandafir': 25},261.0,-368.0,-0.5850556438791733
+10421,Buchet 100 Trandafiri Rosii si 1 Trandafir Alb,1650.78,1834.2,{'Trandafir': 101},1021.0,-630.0,-0.381637771235416
+10419,Buchet insorit,268.2,268.2,"{'Floarea-soarelui': 5, 'Crizantema': 3, 'Hypericum': 3}",99.0,-169.0,-0.6301267710663684
+10424,Buchet 25 irisi mov,358.2,358.2,{'Iris': 25},111.0,-247.0,-0.6895589056393077
+10436,Buchet 49 alstroemeria,988.2,988.2,{'Alstroemeria': 49},256.0,-732.0,-0.7407407407407407
+10435,Buchet 21 trandafiri galbeni,453.6,453.6,{'Trandafir': 21},221.0,-233.0,-0.513668430335097

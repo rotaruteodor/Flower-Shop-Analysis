@@ -2,6 +2,8 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 
+from utils.dataframe_manager import PRODUCT_CONTENTS_HEADER, PRODUCT_CURRENT_PRICE_HEADER, PRODUCT_NAME_HEADER
+
 ###################### www.florarieonline.com ######################
 
 main_website_url = "https://www.florarieonline.com/buchete-cu-flori/toate"
@@ -39,7 +41,7 @@ for i in range(0, len(products_list_items_link_tags), 2):
     products_contents.append(products_contents_dictionary)
 
 pd.DataFrame({
-    'Product name': products_names,
-    'Price (RON)': products_prices,
-    'Contents': products_contents
+    PRODUCT_NAME_HEADER: products_names,
+    PRODUCT_CURRENT_PRICE_HEADER: products_prices,
+    PRODUCT_CONTENTS_HEADER: products_contents
 }).to_csv('../outputs/FlowerShop_3.csv', index=False)

@@ -2,6 +2,10 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 
+from utils.dataframe_manager import PRODUCT_ID_HEADER, PRODUCT_NAME_HEADER, PRODUCT_CURRENT_PRICE_HEADER, \
+    PRODUCT_ORIGINAL_PRICE_HEADER, PRODUCT_CONTENTS_HEADER
+
+
 ###################### www.bloomeria.ro ######################
 
 def get_contents_as_dictionary(full_string_contents):
@@ -19,15 +23,17 @@ def get_contents_as_dictionary(full_string_contents):
                 else:
                     content_name = split_content_element[j + 1].capitalize()
                 contents_dictionary.update({content_name.capitalize(): int(split_content_element[j])})
-    print(contents_dictionary)
     return contents_dictionary
 
 
 website_pages_url = 'https://bloomeria.ro/buchete-de-flori?p='
+products_ids = []
 products_names = []
-products_prices = []
+products_current_prices = []
+products_original_prices = []
 products_contents = []
 page_number = 1
+current_product_number = 1
 
 while True:
     current_page_url = website_pages_url + str(page_number)
@@ -47,17 +53,35 @@ while True:
             contents = get_contents_as_dictionary(product_soup.find('td', attrs={'data-th': 'Compozitie'}).text)
             if len(contents) == 0:
                 continue
-            products_names.append(product_soup.find('span', attrs={'itemprop': 'name'}).text)
-            products_prices.append(float(product_soup.find('span', attrs={'class': 'price'}).text[0:-7]))
+            products_ids.append(product_soup.find('div', attrs={'itemprop': 'sku'}).text.strip())
+            product_name = product_soup.find('span', attrs={'itemprop': 'name'}).text.strip()
+            products_names.append(product_name)
+            if product_soup.find('span', attrs={'class': 'special-price'}) is None:
+                currentPrice = float(product_soup.find('span', attrs={'class': 'price'}).text[0:-7])
+                products_current_prices.append(currentPrice)
+                products_original_prices.append(currentPrice)
+            else:
+                currentPrice = float(product_soup
+                                     .find('span', attrs={'class': 'special-price'})
+                                     .find('span', attrs={'class': 'price'})
+                                     .text[0:-7])
+                originalPrice = float(product_soup
+                                      .find('span', attrs={'class': 'old-price'})
+                                      .find('span', attrs={'class': 'price'})
+                                      .text[0:-7])
+                products_current_prices.append(currentPrice)
+                products_original_prices.append(originalPrice)
             products_contents.append(contents)
-
+            print("Saved product #" + str(current_product_number) + " - " + product_name)
+            current_product_number += 1
         except:
             print("Corrupt data, skipping...")
-
     page_number += 1
 
 pd.DataFrame({
-    'Product name': products_names,
-    'Price (RON)': products_prices,
-    'Contents': products_contents
+    PRODUCT_ID_HEADER: products_ids,
+    PRODUCT_NAME_HEADER: products_names,
+    PRODUCT_CURRENT_PRICE_HEADER: products_current_prices,
+    PRODUCT_ORIGINAL_PRICE_HEADER: products_original_prices,
+    PRODUCT_CONTENTS_HEADER: products_contents
 }).to_csv('../outputs/FlowerShop_2.csv', index=False)

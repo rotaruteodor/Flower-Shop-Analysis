@@ -1,253 +1,157 @@
-Product name,Price (RON),Contents
-buchet din minirose ,319,{'Minirosa': 19}
-"Buchet de flori cu liliac, bujori, orhidee cymbidium",370,"{'Liliac': 1, 'Bujor': 3, 'Trandafir': 4, 'Lalea': 3, 'Frezia': 3, 'Cupe': 3, 'Alstroemeria': 2}"
-Buchet cu trandafiri bujori lisianthus matiola si minirose ,339,"{'Bujor': 4, 'Trandafir': 5, 'Minirosa': 3, 'Mattiola': 3, 'Oxipetalum': 4, 'Lisianthus': 2}"
-"Buchet cu trandafiri, frezii si alstoemeria",189,"{'Trandafir': 5, 'Alstroemeria': 5, 'Frezia': 5}"
-13 bujori cu ambalaj ,385,{'Bujor': 13}
-Buchet de flori in nuante de roz cu trandafiri lisantus si frezii,225,"{'Trandafir': 5, 'Lisianthus': 4, 'Frezia': 4}"
-"Buchet de flori in culori pastelate cu minirose, lisiantus, matiolla, gerbera ",199,"{'Lisianthus': 2, 'Minirosa': 2, 'Mattiola': 3, 'Frezia': 3}"
-buchet cu flori in nuante de galbene si portocaliu,219,"{'Gerbera': 15, 'Trandafir': 5, 'Solidago': 3}"
-Buchet cu flori pastelate,199,"{'Trandafir': 4, 'Crizantema': 3, 'Alstroemeria': 4, 'Frezia': 5}"
-"Buchet de flori cu trandafiri, gerbera si alstroemeria",169,"{'Trandafir': 5, 'Crizantema': 2, 'Alstroemeria': 3, 'Gerbera': 3}"
-Trandafiri roz pal si lisianthus,239,"{'Trandafir': 5, 'Lisianthus': 6}"
-"Buchet colorat cu frezii, lalele si eucalipt",319,"{'Lalea': 15, 'Frezia': 16}"
-"Buchet cu trandafiri, minirose si eucalipt",219,"{'Trandafir': 5, 'Minirosa': 6}"
-"Buchet colorat cu narcise, lalele, frezii, gerbera si lisantus",199,"{'Gerbera': 3, 'Narcisa': 4, 'Lalea': 4, 'Lisianthus': 2, 'Frezia': 3}"
-"Buchet cu hortensie, lisianthus si trandafiri",339,"{'Hortensie': 2, 'Trandafir': 6, 'Lisianthus': 5, 'Eryngium': 2}"
-Buchet cu lalele colorate,329,{'Lalea': 39}
-buchet in nuate de roz si peach ,179,"{'Trandafir': 3, 'Mattiola': 3, 'Alstroemeria': 3, 'Fir': 1}"
-buchet cu 51 frezii colorate,419,{'Frezia': 51}
-"buchet cu 33 lalele galbene, portocalii si mov",249,{'Lalea': 33}
-buchet de flori cu matiola lisiantus si frezii ,189,"{'Minirosa': 1, 'Lisianthus': 3, 'Frezia': 2, 'Mattiola': 2, 'Philodendron': 2}"
-lalele colorate vin si bomboane raffaello,339,{'Lalea': 33}
-"Buchet cu trandafiri, crizantema si alstroemeria",195,"{'Trandafir': 5, 'Crizantema': 2, 'Alstroemeria': 4}"
-Buchet colorat cu frezii si lalele,259,"{'Lalea': 13, 'Frezia': 10}"
-Buchet cu 51 trandafiri rosii,689,"{'Trandafir': 51, 'Ruscus': 10}"
-Buchetel cu frezii si lalele,199,"{'Lalea': 10, 'Frezia': 5}"
-Buchet cu 49 trandafiri albi,649,{'Trandafir': 49}
-"Buchet cu hortensie, frezii, crizantema si gerbera ",319,"{'Hortensie': 3, 'Frezia': 6, 'Gerbera': 4, 'Crizantema': 3}"
-Buchet lalele multicolore si verdeata,239,"{'Lalea': 23, 'Gypsophila': 2}"
-Buchet cu 49 trandafiri albi si galbeni,649,{'Trandafir': 49}
-buchet din trandafiri matiola si alstroemeria ,169,"{'Trandafir': 3, 'Mattiola': 3, 'Alstroemeria': 3, 'Minirosa': 1}"
-"Buchet cu trandafiri,crizantema, garoafe si hypericum",219,"{'Crizantema': 3, 'Garoafa': 5, 'Hypericum': 5}"
-10 trandafiri si 13 minirose,379,"{'Trandafir': 10, 'Minirosa': 13}"
-buchet de flori cu trandafiri portocalii si frezii albe ,379,"{'Trandafir': 20, 'Frezia': 13, 'Bucle': 5}"
-buchet flori colorat,269,"{'Hortensie': 2, 'Trandafir': 3, 'Alstroemeria': 3, 'Minirosa': 2, 'Gerbera': 2}"
-15 bujori in diferite nuante de roz ,435,{'Bujor': 15}
-"Buchet cu hortensii, minirose, vanda, lalele si lisiantus ",259,"{'Hortensie': 1, 'Lisianthus': 2, 'Lalea': 4, 'Minirosa': 2, 'Vanda': 3}"
-aranjament floral cu trandafiri si lisianthus,419,"{'Trandafir': 17, 'Eustoma': 3}"
-"Buchet cu lalele,trandafiri si frezii",439,"{'Lalea': 16, 'Frezia': 16, 'Trandafir': 13}"
-"Buchet de primavara cu lalele, irisi si frezii",399,"{'Frezia': 20, 'Iris': 8, 'Cordyline': 9}"
-Buchetel cu lalele frezii cupa vanda si clematis,99,"{'Lalea': 3, 'Frezia': 3, 'Clematis': 1}"
-Buchet de 27 trandafiri galbeni,399,"{'Trandafir': 27, 'Ruscus': 5, 'Panglica': 2}"
-Buchet cu 21 lalele albe si galbene,199,{'Lalea': 21}
-"Buchet trandafiri, lalele si limonium",320,"{'Trandafir': 5, 'Lalea': 10, 'Limonium': 4}"
-Buchet cu 49 de trandafiri rosii,649,{'Trandafir': 49}
-"Buchet cu trandafiri, hypericum si crizantema",339,"{'Crizantema': 6, 'Hypericum': 10, 'Trandafir': 12}"
-Buchet cu 101 lalele,789,{'Lalea': 101}
-"Buchetel de primavara, lalele, freezii si irisi ",145,"{'Lalea': 4, 'Frezia': 4, 'Iris': 3}"
-buchet colorat de flori ,319,"{'Trandafir': 8, 'Minirosa': 3, 'Crizantema': 2, 'Cupe': 2, 'Alstroemeria': 2, 'Eryngium': 1, 'Gerbera': 3, 'Bucle': 3, 'Pittosporum': 3}"
-101 trandafiri rosii si orhidee vanda ,1349,"{'Trandafir': 101, 'Cupe': 3}"
-49 de lalele albe si roz,379,{'Lalea': 49}
-Buchet superb cu 101 trandafiri rosii si albi,1299,{'Trandafir': 101}
-"Buchet special cu lalele Vip Rose, bujori, hortensie, trandafiri ",479,"{'Bujor': 3, 'Lalea': 9, 'Trandafir': 5, 'Hortensie': 2, 'Cupe': 3, 'Alstroemeria': 4, 'Chamelaucium': 3}"
-101 trandafiri roz si albi ,1199,{'Trandafir': 101}
-Buchet cu floarea soarelui trandafiri matiola si solidago ,239,"{'Floarea-soarelui': 5, 'Trandafir': 5, 'Mattiola': 5, 'Solidago': 3}"
-"buchet cu hortensie, bujori, trandafiri, alstroeria ",329,"{'Bujor': 3, 'Trandafir': 6, 'Alstroemeria': 3, 'Lalea': 3, 'Minirosa': 2, 'Chamelaucium': 1, 'Hortensie': 1}"
-buchet cu 19 trandafiri lila ,245,{'Trandafir': 19}
-"Buchet cu trandafiri, lalele si frezii",219,"{'Trandafir': 7, 'Frezia': 6, 'Lalea': 4}"
-25 de trandafiri cu eucalipt si cordiline ,399,{'Trandafir': 25}
-15 trandafiri mov si limonium,249,"{'Trandafir': 15, 'Limonium': 4, 'Panglica': 1}"
-Buchet cu flori albe mixate,259,"{'Trandafir': 5, 'Frezia': 5, 'Cupe': 8, 'Aspidistra': 7}"
-"Buchet cu matiola, trandafiri, alstroemeria, lisianthus si astrantia",285,"{'Trandafir': 6, 'Mattiola': 6, 'Alstroemeria': 4, 'Lisianthus': 3, 'Boupleurum': 4, 'Astrantia': 3}"
-Trandafirii iubirii,399,{'Trandafir': 25}
-Buchet cu flori mixate de primavara,199,"{'Trandafir': 3, 'Cupe': 3, 'Lalea': 3, 'Frezia': 3, 'Alstroemeria': 2, 'Liliac': 1}"
-buchet di trandafiri si minirose ,439,"{'Minirosa': 10, 'Trandafir': 17}"
-Buchet cu 33 trandafiri rosii roz si albi ,499,{'Trandafir': 33}
-Buchet cu flori roz si albe ,189,"{'Trandafir': 5, 'Alstroemeria': 5, 'Frezia': 4}"
-Buchet portocaliu cu trandafiri minirosa si gerbera,279,"{'Minirosa': 10, 'Gerbera': 9, 'Pittosporum': 5}"
-Buchet cu 21 lalele albe,199,{'Lalea': 21}
-buchet cu floarea sorelui si gerbera,169,"{'Floarea-soarelui': 9, 'Gerbera': 3, 'Solidago': 3}"
-Buchet din flori galbene cu narcise si lalele,299,"{'Narcisa': 19, 'Lalea': 10, 'Chamelaucium': 4}"
-Buchet cu flori galbene,299,"{'Trandafir': 5, 'Minirosa': 5, 'Craspedia': 8, 'Solidago': 4}"
-buchet de primavara cu lalele colorate,185,{'Lalea': 19}
-buchet cu 33 lalele albe si mov,299,{'Lalea': 33}
-buchet de flori cu 11 zambile,149,{'Zambila': 11}
-buchet cu 101 lalele galbene,789,{'Lalea': 101}
-Buchet cu 19 trandafiri roz si verdeata,299,"{'Trandafir': 19, 'Bucle': 7, 'Pittosporum': 6, 'Ambalaj': 1}"
-buchet deosebit cu trandafiri rosii ranunculus si chamelaucium,519,"{'Trandafir': 19, 'Ranunculus': 10, 'Chamelaucium': 5}"
-buchet cu 19 bujori si verdeata,539,{'Bujor': 19}
-buchet cu trandafiri rosii si chamelaucium roz,155,"{'Trandafir': 3, 'Chamelaucium': 4}"
-Buchet cu 19 trandafiri,339,{'Trandafir': 19}
-Buchet cu 5 trandafiri,149,{'Trandafir': 5}
-"Buchet cu orhidee, lisiantus, minirose si gerbera ",295,"{'Cupe': 3, 'Minirosa': 4, 'Lisianthus': 5, 'Gerbera': 4, 'Musetel': 5}"
-Buchet cu flori in nuante de roz,249,"{'Trandafir': 6, 'Minirosa': 5, 'Crizantema': 3}"
-Buchet cu flori rosii,215,"{'Trandafir': 5, 'Gerbera': 5, 'Hypericum': 5}"
-buchet cu 29 lalele albe ,249,{'Lalea': 29}
-"Buchet cu crizantema, garoafe si gerbera",169,"{'Crizantema': 6, 'Gerbera': 5, 'Garoafa': 4}"
-"Buchet cu trandafiri, hypericum, alstroemeria si gerbera",299,"{'Trandafir': 9, 'Hypericum': 7, 'Alstroemeria': 5, 'Gerbera': 6}"
-"Buchet cu flori, galbene, portocalii si rosii",299,"{'Trandafir': 8, 'Gerbera': 7, 'Hypericum': 9, 'Solidago': 3}"
-Buchet cu crizantema roz si alstroemeria galbena,159,"{'Crizantema': 3, 'Alstroemeria': 6}"
-Buchet cu trandafiri si hypericum,229,"{'Trandafir': 7, 'Hypericum': 5, 'Crizantema': 3}"
-"Buchet cu gerbera, alstroemeria si crizantema ",169,"{'Gerbera': 5, 'Alstroemeria': 3, 'Crizantema': 3}"
-Buchet cu flori portocalii si roz,299,"{'Minirosa': 8, 'Minigerbera': 7, 'Limonium': 3, 'Alstroemeria': 3}"
-"Buchet cu lalele, trandafiri, anemone",319,"{'Trandafir': 7, 'Lalea': 10, 'Anemone': 8}"
-"Buchet cu orhidee, trandafiri, hypericum si gerbera",269,"{'Trandafir': 4, 'Cupe': 6, 'Gerbera': 5, 'Hypericum': 5}"
-Buchet cu 15 trandafiri rosii,269,{'Trandafir': 15}
-Buchet de flori 25 de lalele,245,{'Lalea': 25}
-Buchet cu 101 trandafiri roz ,1199,{'Trandafir': 101}
-Buchet cu 101 trandafiri,1299,{'Trandafir': 101}
-buchet de flori cu antininium ,399,"{'Anthurium': 29, 'Monstera': 4}"
-19 bujori cu eucalipt ,535,{'Bujor': 19}
-Buchet cu trandafiri rosii si irisi,289,"{'Trandafir': 13, 'Iris': 12}"
-Buchet cu lalele si irisi,239,"{'Lalea': 13, 'Iris': 12}"
-25 de trandafiri cu eucalipt,389,{'Trandafir': 25}
-Buchet cu 5 trandafiri Freedom,159,{'Trandafir': 5}
-"Buchet cu delphinium, iris, narcise si trandafiri si ranunculus",489,"{'Delphinium': 8, 'Trandafir': 6, 'Iris': 10, 'Narcisa': 8}"
-Buchet cu lalele si frezii,279,"{'Frezia': 15, 'Lalea': 12}"
-Buchet cu bujori si viburnum,299,"{'Bujor': 9, 'Viburnum': 2}"
-Buchet cu 19 lalele,215,{'Lalea': 19}
-"Buchet cu trandafiri , leucospermum, alstroemeria, anemone si lalele",449,"{'Trandafir': 7, 'Leucospermum': 3, 'Lalea': 7, 'Anemone': 6, 'Alstroemeria': 2, 'Clematis': 2, 'Anthurium': 3, 'Ammi': 2}"
-Buchet colorat de primavara,419,"{'Trandafir': 6, 'Anemone': 4, 'Lalea': 8, 'Alstroemeria': 3, 'Cupe': 3, 'Mattiola': 4, 'Chamelaucium': 3, 'Greentick': 3}"
-"Buchet cu lalele, ranunculus chamelaucium ",239,"{'Trandafir': 1, 'Lalea': 10, 'Ranunculus': 7, 'Chamelaucium': 2}"
-"Buchet de primavara cu ranunculus, lalele si wax ",319,"{'Ranunculus': 5, 'Lalea': 10, 'Trandafir': 1, 'Wax': 3}"
-Buchet cu trandafiri ranunculus si chamelaucium,449,"{'Trandafir': 19, 'Ranunculus': 16, 'Chamelaucium': 3}"
-Buchet cu 39 trandafiri,525,{'Trandafir': 39}
-"Buchet colorat cu liliac, bujori, narcise si frezii ",439,"{'Bujor': 7, 'Liliac': 3, 'Narcisa': 7, 'Frezia': 5}"
-"Buchet cu minirose, trandafiri, chrisantema si bouvardia",259,"{'Minirosa': 5, 'Trandafir': 3, 'Crizantema': 3, 'Bouvardia': 3}"
-Buchet cu flori galbene si portocalii,319,"{'Minirosa': 4, 'Crizantema': 3, 'Lalea': 5}"
-Buchet cu flori roz,155,"{'Trandafir': 2, 'Alstroemeria': 2, 'Minigerbera': 2, 'Minirosa': 2, 'Gypsophila': 2}"
-Buchet trandafiri gerbera crizantema si alstroemeria,195,"{'Trandafir': 3, 'Gerbera': 3, 'Alstroemeria': 3, 'Crizantema': 3, 'Solidago': 3}"
-Buchet cu flori albe si verzi,229,"{'Trandafir': 3, 'Minirosa': 3, 'Germini': 3, 'Alstroemeria': 3, 'Crizantema': 3, 'Trachelium': 3}"
-29 de lalele rosii si roz,249,{'Lalea': 29}
-Buchet cu lalele galbene,219,{'Lalea': 25}
-"cadou cu bujori, sampanie si bomboane",659,{'Bujor': 19}
-buchet de primavara cu ranunculus si lalele duble,329,"{'Trandafir': 1, 'Ranunculus': 5, 'Lalea': 10, 'Chamelaucium': 3}"
-"Buchet colorat cu frezii, irisi, crizantema, trandafiri",319,"{'Trandafir': 8, 'Crizantema': 5, 'Frezia': 10, 'Iris': 10}"
-Buchet cu trandafiri si irisi,229,"{'Trandafir': 9, 'Iris': 10}"
-"Buchet cu orhidee, minirose si bucle de aspidistra",239,"{'Cupe': 9, 'Minirosa': 4}"
-Buchet parfumat cu 49 de frezii,410,{'Frezia': 19}
-"Buchet cu trandafiri eryngium, astrantia si verdeata",209,"{'Eryngium': 3, 'Astrantia': 5}"
-"Buchet cu lalele, matiola si greentrick",279,"{'Mattiola': 5, 'Greentick': 5, 'Lalea': 7}"
-Buchet colorat cu flori de primavara,279,"{'Lalea': 17, 'Greentick': 5, 'Craspedia': 10, 'Frezia': 7}"
-Buchet superb trandafiri rosii,399,"{'Trandafir': 25, 'Cordyline': 12}"
-Buchet cu lalele lisiantus si eucalipt,225,"{'Lalea': 15, 'Lisianthus': 3, 'Bucle': 7}"
-Buchet cu orhidee lalele astrantia,269,"{'Cupe': 8, 'Lalea': 10, 'Astrantia': 5, 'Aspidistra': 3}"
-"Buchet de primavara cu lalele, anemone si frezii",269,"{'Lalea': 10, 'Anemone': 9, 'Frezia': 7}"
-Buchet cu 13 trandafiri galbeni si bucle de cordyline,239,"{'Trandafir': 13, 'Frunze': 5, 'Eucalipt': 2, 'Ambalaj': 1}"
-Buchet cu 25 trandafiri albi,329,{'Trandafir': 25}
-buchet cu hortensie liliac bujori trandafiri si frezii ,399,"{'Hortensie': 1, 'Liliac': 3, 'Trandafir': 5, 'Bujor': 6}"
-buchet de 39 lalele mov si albe,329,{'Lalea': 19}
-Buchet cu lalele si anemone,269,"{'Lalea': 10, 'Anemone': 9, 'Cordyline': 7}"
-Buchet cu 9 trandafiri roz si eucalipt,169,"{'Trandafir': 9, 'Eucalipt': 4, 'Ambalaj': 1}"
-Buchet din cupe cymbidium,269,"{'Cymbidium': 1, 'Cordyline': 10, 'Ruscus': 4}"
-Buchet cu orhidee cymbidium,259,"{'Cupe': 17, 'Ruscus': 4, 'Aspidistra': 6}"
-Buchete trandafiri si lisianthus,239,"{'Trandafir': 5, 'Lisianthus': 5, 'Ruscus': 4, 'Salal': 10}"
-Buchet cu trandafiri portocalii si frezii albe,399,{'Frezia': 20}
-"Buchet u lalele, trandafiri, hypericum, anemone si alstroemeria",399,"{'Trandafir': 9, 'Lalea': 8, 'Hypericum': 5, 'Anthurium': 4, 'Anemone': 5, 'Alstroemeria': 3}"
-Buchet cu minirose mov si frezia alba,329,"{'Minirosa': 10, 'Frezia': 15, 'Bucle': 6}"
-Buchet cu trandafiri gerbera si garofite,219,"{'Trandafir': 8, 'Garofite': 5, 'Gerbera': 3, 'Limonium': 3}"
-Buchet cu lalele rosii si minirose albe,259,"{'Lalea': 23, 'Minirosa': 3}"
-"Buchet cu trandafiri, garoafe, crizanteme si hypericum",194,"{'Trandafir': 4, 'Garoafa': 5, 'Crizantema': 4, 'Hypericum': 3}"
-buchet cu flori galbene si portocalii de primavara,279,"{'Trandafir': 6, 'Gerbera': 7, 'Narcisa': 10, 'Solidago': 4}"
-buchet cu hortensie trandafiri orhidee si frezii ,239,"{'Hortensie': 1, 'Trandafir': 3, 'Alstroemeria': 3, 'Lalea': 2, 'Frezia': 2, 'Cupe': 2, 'Bucle': 3}"
-aranjament cu flori portocalii rosii si albe,179,"{'Trandafir': 2, 'Frezia': 5, 'Hypericum': 2, 'Eustoma': 1, 'Cupe': 1}"
-aranjament floral de primavara in cutie ,155,"{'Lalea': 4, 'Gerbera': 1, 'Trandafir': 2, 'Ranunculus': 1, 'Chamelaucium': 1, 'Boupleurum': 1}"
-buchet cu trandafiri rosii si unul alb ,219,"{'Trandafir': 13, 'Bucle': 4, 'Pittosporum': 3}"
-buchet cu 7 trandafiri portocalii ,169,"{'Trandafir': 7, 'Bucle': 4}"
-101 trandafiri in cutie de catifea ,1349,{'Trandafir': 101}
-aranjament floral in culori pale ,169,"{'Trandafir': 2, 'Lisianthus': 1, 'Santini': 1, 'Chamelaucium': 1, 'Garoafa': 2}"
-aranjament floral de lux ,1599,"{'Protea': 2, 'Delphinium': 7, 'Viburnum': 4, 'Mattiola': 10, 'Minirosa': 10, 'Lisianthus': 10, 'Astilbe': 10, 'Chamelaucium': 3, 'Trandafir': 10, 'Planta': 1}"
-aranjamente florale cu trandafiri gerbera garoafe ,210,"{'Trandafir': 5, 'Garoafa': 3, 'Gerbera': 4, 'Minirosa': 1, 'Chamelaucium': 1, 'Boupleurum': 1}"
-cutie cu trandafiri galbeni si mov ,249,{'Trandafir': 13}
-cutie catifea cu flori colorate ,168,"{'Trandafir': 3, 'Cupe': 2, 'Gerbera': 1, 'Chamelaucium': 1, 'Alstroemeria': 1, 'Greentick': 1}"
-19 lalele galbene si albe ,179,{'Lalea': 19}
-Aranjament floral in cutie cu hortensie bujori alstroemeria si trandafiri,329,"{'Bujor': 3, 'Hortensie': 1, 'Trandafir': 3, 'Alstroemeria': 3, 'Viburnum': 1}"
-aranjament floral in vas cu trandafiri frezii si hortensie ,249,"{'Hortensie': 2, 'Trandafir': 7, 'Frezia': 4}"
-Aranjament floral in cutie cu bujori orhidee hortensie ,420,"{'Hortensie': 1, 'Bujor': 6, 'Orhidee': 3, 'Trandafir': 4, 'Alstroemeria': 3, 'Lisianthus': 1}"
-Aranjament floral piramidal in cutie ,259,"{'Hortensie': 1, 'Frezia': 3, 'Trandafir': 3, 'Lisianthus': 2, 'Minirosa': 2, 'Anthurium': 1}"
-Aranjament floral cu trandafiri lalele hypericum si liliac ,279,"{'Trandafir': 7, 'Lalea': 7, 'Hypericum': 3, 'Liliac': 1, 'Astrantia': 3}"
-Buchet cu lalele albe si roz ,199,{'Lalea': 19}
-Cutie bloomeria cu lisiantus trandafiri si eryngium,359,"{'Trandafir': 10, 'Lisianthus': 5, 'Eryngium': 3}"
-Cutie cu flori rosii ,415,"{'Trandafir': 13, 'Lalea': 10, 'Hypericum': 4}"
-aranjament floral in nuante de toamna ,179,"{'Lalea': 3, 'Frezia': 3, 'Minirosa': 1, 'Lisianthus': 1, 'Gerbera': 2}"
-aranjament cu flori roz mov si galbene ,155,"{'Frezia': 3, 'Lalea': 3, 'Gerbera': 3}"
-Cos cu lalele minirose ranunculus alstroemeria,199,"{'Lalea': 4, 'Ranunculus': 3, 'Minirosa': 1, 'Trandafir': 1, 'Alstroemeria': 1, 'Greentick': 1}"
-"aranjament floral cu hortensie, lisianthus, lalele si veronica  ",299,"{'Hortensie': 1, 'Lisianthus': 2, 'Lalea': 6, 'Trandafir': 3, 'Veronica': 4, 'Boupleurum': 2}"
-cutie cu flori deosebite,519,"{'Bujor': 5, 'Protea': 1, 'Lalea': 7, 'Ranunculus': 3, 'Minirosa': 2, 'Greentick': 3, 'Trandafir': 3}"
-cos cu lalele galbene si zambile,175,"{'Lalea': 11, 'Zambila': 2}"
-aranjament floral de primavara in cos,175,"{'Zambila': 3, 'Lalea': 4, 'Frezia': 4, 'Chamelaucium': 1, 'Cupe': 1}"
-aranjament in cutie de flori colorate de primavara,329,"{'Trandafir': 3, 'Minirosa': 2, 'Tija': 1, 'Hortensie': 1, 'Lisianthus': 1, 'Zambila': 2, 'Lalea': 5, 'Alstroemeria': 2}"
-"aranjament cu hortensie, bujori, trandafiri, frezii si orhidee vanda ",449,"{'Hortensie': 1, 'Bujor': 3, 'Trandafir': 5, 'Lalea': 5, 'Frezia': 5, 'Cupe': 5, 'Greentick': 5}"
-cutie cu 35 de lalele colorate,349,{'Lalea': 35}
-cosulet cu flori de primavara,167,"{'Lalea': 7, 'Zambila': 2, 'Chamelaucium': 1}"
-"statue venus cu lisianthus, lalele si wax ",289,"{'Lisianthus': 2, 'Crizantema': 2, 'Lalea': 3, 'Boupleurum': 2, 'Chamelaucium': 2}"
-"Aranjament floral cu hortensie, trandafiri, veronica si lalele ",229,"{'Trandafir': 3, 'Hortensie': 1, 'Veronica': 3, 'Lalea': 3, 'Greentick': 3, 'Frezia': 3, 'Lisianthus': 1}"
-Cutie cu flori colorate de primavara,155,"{'Lalea': 3, 'Narcisa': 3, 'Gerbera': 3}"
-"Aranjament floral in cos cu vanda, lalele, trandafiri si gerbera",225,"{'Gerbera': 3, 'Cupe': 2, 'Lalea': 6, 'Trandafir': 3}"
-"Aranjament floral in cutie cu bumbac, orhidee, alstroemeria si lisiantus",159,"{'Alstroemeria': 1, 'Lisianthus': 1, 'Cupe': 3}"
-Aranjament floral in cutie cu flori colorate,299,"{'Greentick': 4, 'Trandafir': 7, 'Lalea': 5, 'Lisianthus': 2, 'Crizantema': 2, 'Cupe': 2}"
-Cutie cu orhidee vanda si veronica,259,"{'Cupe': 8, 'Veronica': 5, 'Hypericum': 5}"
-"Cutie natur cu anemone, narcise, frezii si chamelaucium",159,"{'Narcisa': 4, 'Anemone': 3, 'Frezia': 2, 'Chamelaucium': 2}"
-"Aranjament floral cu trandafiri, eryngium, frezia si lisiantus",169,"{'Trandafir': 3, 'Eryngium': 1, 'Frezia': 2, 'Lisianthus': 1, 'Chamelaucium': 1}"
-"Cutie nud cu hortensie, matiola si minorose ",359,"{'Minirosa': 7, 'Mattiola': 7, 'Hortensie': 1}"
-Aranjament floral in cutie cu flori speciale,499,"{'Trandafir': 4, 'Lisianthus': 5, 'Cupe': 4, 'Lalea': 8, 'Garoafa': 3, 'Chamelaucium': 3}"
-"Aranjament floral cu trandafiri, orhidee, lisiantus si lalele ",299,"{'Trandafir': 6, 'Cupe': 2, 'Lalea': 4, 'Lisianthus': 2, 'Alstroemeria': 1}"
-"Cutie cu hortensie, lisianthus, chamelaucium si craspedia",339,"{'Hortensie': 1, 'Lisianthus': 5, 'Chamelaucium': 3, 'Craspedia': 5, 'Clematis': 1}"
-Cutie cu trandafiri rosii si hypericum verde,289,"{'Trandafir': 6, 'Hypericum': 5}"
-"Cutie cu trandafiri, lisianthus, chrisantem si hypericum",225,"{'Trandafir': 3, 'Crizantema': 3, 'Lisianthus': 2, 'Hypericum': 5, 'Garoafa': 5}"
-"Cutie cu crin, chrisantema, trandafiri si hypericum",259,"{'Crizantema': 4, 'Trandafir': 3, 'Crin': 1, 'Garoafa': 6, 'Hypericum': 3}"
-"Cutie cu gerbera, trandafiri si lisianthus ",225,"{'Gerbera': 6, 'Trandafir': 6, 'Lisianthus': 2}"
-Aranjament cu flori pastelate,215,"{'Trandafir': 5, 'Gerbera': 5, 'Lalea': 3, 'Eustoma': 3}"
-"Cutie cu protea, bujori, trandafiri, lalele",455,"{'Protea': 1, 'Trandafir': 8, 'Bujor': 5, 'Berzelia': 6, 'Lalea': 9, 'Astilbe': 3}"
-Cutie in forma de inima cu 35 lalele si eucalipt,379,{'Lalea': 35}
-Cutie cu hortensie trandafiri si phalaenopsis,319,"{'Hortensie': 1, 'Trandafir': 9, 'Alstroemeria': 2, 'Cupe': 2}"
-Cutie cu flori exotice,269,"{'Hortensie': 1, 'Cupe': 4, 'Trandafir': 3, 'Alstroemeria': 2, 'Lisianthus': 1}"
-"Aranjament cu phalaenopsis, trandafiri, hortensie, alstroemeria",359,"{'Tija': 1, 'Hortensie': 1, 'Trandafir': 8, 'Alstroemeria': 3, 'Lisianthus': 1, 'Scabiosa': 5}"
-"Cutie cu cymbidium, lisianthus, trandafiri",225,"{'Trandafir': 6, 'Cymbidium': 2, 'Lisianthus': 1, 'Mattiola': 1, 'Minirosa': 1, 'Viburnum': 1}"
-Cutie cu flori pastelate,399,"{'Trandafir': 9, 'Hortensie': 1, 'Cupe': 4, 'Minirosa': 2, 'Lisianthus': 2, 'Viburnum': 1, 'Alstroemeria': 2}"
-"Aranjament cu hortensie, eustoma, chamelaucium",189,"{'Lisianthus': 2, 'Chamelaucium': 1, 'Trandafir': 1}"
-Buchet cu bujori roz si lalele galbene,369,"{'Bujor': 10, 'Lalea': 9}"
-"Cutie cu hortensie, miniroze, matiola ",309,"{'Hortensie': 1, 'Minirosa': 5, 'Mattiola': 3, 'Senecio': 3}"
-Buchet cu floarea-soarelui si gerbera,209,"{'Floarea-soarelui': 7, 'Gerbera': 7, 'Solidago': 3}"
-Buchet cu 35 lalele,299,{'Lalea': 35}
-Buchet cu 11 alstroemeria,169,{'Alstroemeria': 11}
-Buchet cu anturium,329,{'Anthurium': 15}
-Buchetel cu minigerbera,169,{'Minigerbera': 19}
-"Cutie cu lalele, irisi, frezii si chamelaucium",169,"{'Lalea': 3, 'Chamelaucium': 2, 'Frezia': 3, 'Iris': 3, 'Eucalipt': 1}"
-"Cutie in forma de Inima cu 15 trandafiri, 10 greentrick si 6 craspedia",399,"{'Trandafir': 15, 'Greentick': 10, 'Craspedia': 6}"
-"Cutie cu trandafiri, lisianthus si eryngium",319,"{'Elisianthus': 5, 'Eryngium': 2}"
-"Buchet cu irisi, astrantia si anemone",225,"{'Astrantia': 5, 'Anemone': 10}"
-Buchetel cu 5 zambile,89,{'Zambila': 5}
-Buchet roz din minirose si ranunculus,459,"{'Minirosa': 10, 'Ranunculus': 10}"
-"Buchet cu orhidee vanda, bujori, minirose si lavanda",359,"{'Bujor': 9, 'Minirosa': 6, 'Cupe': 3, 'Astilbe': 3}"
-Cutie cu flori deosebite pentru persoanele dragi,449,"{'Bujor': 3, 'Hortensie': 2, 'Ranunculus': 6, 'Trandafir': 8, 'Mattiola': 3, 'Lisianthus': 2}"
-"statueta venus cu trandafiri rosii urs de plus, sampanie si ciocolata",399,{'Trandafir': 11}
-cutie cu 25 de trandafiri portocalii,319,{'Trandafir': 25}
-Cutie cu 21 de trandafiri,295,{'Trandafir': 21}
-11 bujori roz si albi cu eucalipt ,335,{'Bujor': 11}
-Aranjament cu trandafiri rosii in statue cu Venus,279,{'Trandafir': 9}
-"Buchet cu ranunculus, trandafiri, frezii si chamelaucium",229,"{'Ranunculus': 3, 'Trandafir': 4, 'Frezia': 4, 'Chamelaucium': 1}"
-Buchet cu 13 bujori roz si eucalipt ,385,{'Bujor': 13}
-Buchet cu trandafiri rosii si albi,339,{'Trandafir': 25}
-cutie cu 5 bujori,225,{'Bujor': 5}
-Cutie eleganta de flori cu trandafiri albi si rosii,429,{'Trandafir': 25}
-Aranjament cu trandafiri si eustoma,169,"{'Trandafir': 6, 'Lisianthus': 2}"
-"Aranjament floral cu hortensie, bujori, lisiantus, alstroemeria si bouvardia ",329,"{'Hortensie': 1, 'Bujor': 3, 'Lisianthus': 2, 'Alstroemeria': 2, 'Bouvardia': 2, 'Mattiola': 1}"
-19 lalele si frezii cu vin si bomboane,259,{'Lalea': 19}
-Buchet cu bujori si alstroemeria,495,"{'Bujor': 15, 'Alstroemeria': 7, 'Panicum': 3}"
-"cutie cu bujori, frezii si chamelaucium",239,"{'Bujor': 5, 'Frezia': 4, 'Chamelaucium': 1}"
-Buchet cu trandafiri lalele si gerbera ,310,"{'Trandafir': 10, 'Lalea': 10, 'Gerbera': 9}"
-"Cutie cu bujori, matiola, greentrick si nigella",399,"{'Bujor': 5, 'Mattiola': 6, 'Greentick': 5, 'Nigella': 3}"
-"aranjament cu zambile, lalele, frezii si chamelaucium ",179,"{'Zambila': 3, 'Lalea': 3, 'Frezia': 3, 'Chamelaucium': 2}"
-"Cutie cu bumbac, minirose, lisiantus si frezii ",199,"{'Minirosa': 2, 'Lisianthus': 2, 'Frezia': 4, 'Cupe': 5}"
-"Buchet cu bujori, hortensie, liliac ",429,"{'Hortensie': 3, 'Bujor': 6, 'Liliac': 3}"
-Buchet cu 15 trandafiri roz si mov ,225,{'Trandafir': 15}
-Buchet cu 15 trandafiri albi ,219,{'Trandafir': 15}
-"Aranjament piramidal cu trandafiri, eustoma, frezii si bumbac ",185,"{'Trandafir': 3, 'Lisianthus': 1, 'Frezia': 3, 'Cupe': 5}"
-Cutie natur  cu flori de primavara,249,"{'Frezia': 5, 'Lalea': 9, 'Trandafir': 3, 'Eryngium': 2}"
-"Cutie natur cu flori in diferite nuante de roz, galben si alb",169,"{'Lisianthus': 2, 'Gerbera': 3, 'Frezia': 3, 'Narcisa': 3}"
-Aranjament floral in carte,329,"{'Trandafir': 3, 'Cupe': 4, 'Hortensie': 1, 'Veronica': 3, 'Greentick': 3, 'Frezia': 3, 'Lisianthus': 1}"
-"Cutie cu trandafiri, frezii, chamelaucium si eryngium",195,"{'Trandafir': 3, 'Frezia': 4, 'Chamelaucium': 2, 'Eryngium': 1}"
-cutie cu flori de primavara,165,"{'Lisianthus': 1, 'Frezia': 3, 'Lalea': 3, 'Chamelaucium': 1}"
-"Buchet cu trandafiri, mathiola, green trick,  chamelaucium, eryngium",525,"{'Trandafir': 20, 'Greentick': 10, 'Mattiola': 5, 'Eryngium': 2, 'Chamelaucium': 5}"
+Product ID,Product name,Price (RON),Original Price (RON),Contents
+bloom1107,buchet de vara cu hortensie lisianthus si alstroemeria,255.0,255.0,"{'Hortensie': 1, 'Lisianthus': 3, 'Alstroemeria': 3, 'Bupleurum': 2}"
+bloom1082,Buchet din 15 trandafiri rosii,309.0,339.0,{'Trandafiri': 15}
+bloom1076,buchet cu liliac si trandafiri albi,289.0,289.0,"{'Trandafiri': 5, 'Liliac': 4}"
+bloom1071,buchet cu alstroemeria frezii lalele si garoafe,149.0,149.0,"{'Frezii': 2, 'Lalele': 2, 'Alstroemeria': 2, 'Garoafe': 3}"
+bloom1069,buchet colorat cu 51 de trandafiri,819.0,819.0,{'Trandafiri': 51}
+bloom1067,buchet cu flori albe si albastre,319.0,319.0,"{'Trandafiri': 5, 'Hortnsie': 1, 'Eryngium': 2, 'Oxipetalum': 4, 'Hypericum': 3}"
+bloom1066,buchet de flori  cu hortensie trandafiri lisianthus si antirinium,289.0,289.0,"{'Hortensie': 1, 'Trandafiri': 2, 'Lisianthus': 3, 'Antirinium': 4, 'Alstroemeria': 1}"
+bloom1064,buchet cu 19 trandafiri albi,389.0,389.0,{'Trandafiri': 19}
+bloom1061,buchet de flori pentru aniversare,219.0,219.0,"{'Trandafiri': 3, 'Crizantema': 1, 'Alstroemeria': 3, 'Chamelaucium': 3}"
+bloom1062,buchet de flori pentru iubita,289.0,289.0,"{'Hortensie': 1, 'Trandafiri': 3, 'Minirose': 2, 'Minigerbera': 2, 'Alstroemeria': 1, 'Viburnum': 1, 'Antirinium': 2}"
+bloom1059,buchete de flori cu trandafiri lisianthus si minirose,255.0,255.0,"{'Trandafiri': 3, 'Minirose': 3, 'Lisanthus': 3, 'Gerbera': 3}"
+bloom1056,buchet elegant cu 17 trandafiti rosii,359.0,359.0,{'Trandafiri': 17}
+bloom1054,buchet elegant cu flori albe,285.0,285.0,"{'Trandafiri': 5, 'Minirose': 2, 'Lisianthus': 2, 'Matiola': 4}"
+bloom1050,buchet aniversar cu flori roz si albe,209.0,209.0,"{'Trandafiri': 2, 'Gerbera': 2, 'Alstroemeria': 3, 'Lisianthus': 2}"
+bloom1049,buchet cu 51 de trandafiri pentru ea,869.0,869.0,{'Si': 51}
+bloom1046,buchet  personalizat cu hortensii,245.0,245.0,{'Hortensii': 3}
+bloom1045,Buchet de 101 trandafiri,1.519,1.719,{'Trandafiri': 101}
+bloom1044,buchet in nuante de roz si mov,235.0,235.0,"{'Trandafiti': 3, 'Minirosa': 1, 'Alstroemeria': 3, 'Matiola': 3}"
+bloom1043,buchet cu hortensie orhidee alstroemeria hypericum in nuante de roz,309.0,309.0,"{'Hortensie': 1, 'Trandafiri': 3, 'Cupe': 2, 'Minigerbera': 2, 'Hypericum': 2, 'Alstroemeria': 3, 'Crizantema': 1}"
+bloom1042,buchet aniversar cu hortensie trandafiri si lisianthus,309.0,309.0,"{'Hortensie': 1, 'Trandafiri': 6, 'Minirose': 2, 'Alstroemeria': 1, 'Lisianthus': 1}"
+bloom894,Buchet cu trandafiri rosii si unul alb,289.0,339.0,"{'Trandafiri': 13, 'Bucle': 4, 'Pittosporum': 3}"
+bloom113,Buchet cu cymbidium trandafiri si craspedia,345.0,345.0,"{'Tranadafiri': 4, 'Tradafiri': 3, 'Craspedia': 6}"
+bloom04,Buchet cu 59 de trandafiri rosii,940.0,940.0,{'Rosii': 59}
+Buchet de trandafiri personalizat,Buchet/aranjament de trandafiri personalizat,189.0,250.0,{'Trandafiri': 11}
+bloom637,"Buchet cu trandafiri, frezii si alstoemeria",229.0,249.0,"{'Trandafiri': 5, 'Alstroemeria': 5, 'Frezii': 5}"
+bloom70,Buchet cu flori pastelate,269.0,269.0,"{'Trandafiri': 4, 'Crizantema': 2, 'Alstroemeria': 5, 'Frezii': 4}"
+bloom795,buchet cu flori in nuante de galbene si portocaliu,259.0,259.0,"{'Gerbera': 15, 'Trandafiri': 5, 'Solidago': 3}"
+bloom48,"Buchet cu trandafiri, minirose si eucalipt",269.0,299.0,"{'Trandafiri': 5, 'Minirose': 8}"
+bloom713,"Buchet colorat cu narcise, lalele, frezii, gerbera si lisantus",239.0,239.0,"{'Gerbera': 3, 'Narcise': 4, 'Lalele': 4, 'Lisiantus': 2, 'Frezia': 3}"
+bloom842,13 bujori cu ambalaj,469.0,469.0,{'Bujori': 13}
+bloom994,Buchet de flori in nuante de roz si peach,230.0,309.0,"{'Trandafiri': 3, 'Matiola': 3, 'Alstromeria': 3, 'Fir': 1}"
+bloom788,buchet cu 51 frezii colorate,449.0,449.0,{'Frezii': 51}
+bloom1040,Buchet zi de nastere cu bujori trandafiri si matiola,289.0,289.0,"{'Bujori': 3, 'Matiola': 3, 'Trandafiri': 2, 'Minirosa': 1}"
+bloom1038,Buchet superb de flori,379.0,379.0,"{'Trandafiri': 7, 'Alstroemeria': 3, 'Lisianthus': 3, 'Cupa': 1, 'Veronica': 3, 'Chamelaucium': 2, 'Matiola': 3}"
+bloom880,Buchet cu 19 trandafiri lila,269.0,299.0,{'Trandafiri': 19}
+Buchet de bujori personalizat,Buchet de bujori personalizat,319.0,350.0,{'Bujori': 7}
+bloom841,19 bujori cu eucalipt,609.0,609.0,{'Bujori': 19}
+bloom802,"buchet cu hortensie, bujori, trandafiri, alstroeria",449.0,449.0,"{'Bujori': 3, 'Trandafiri': 6, 'Alstroemeria': 3, 'Lalele': 3, 'Minirose': 2, 'Chamelaucium': 1, 'Hortensie': 1}"
+bloom1036,Buchet zi de nastere cu trandafiri si alstroemeria,215.0,215.0,"{'Trandafiri': 5, 'Alstroemeria': 4}"
+bloom844,15 bujori in diferite nuante de roz,559.0,559.0,{'Bujori': 15}
+bloom874,Buchet de flori colorat cu hortensie si trandafiri,279.0,279.0,"{'Hortensie': 1, 'Trandafiri': 3, 'Alstroemeria': 3, 'Minirosa': 2, 'Gerbera': 2}"
+bloom693,"Buchet cu hortensii, minirose, vanda, lalele si lisiantus",299.0,299.0,"{'Hortensie': 1, 'Lisiantus': 2, 'Lalele': 4, 'Minirose': 2, 'Vanda': 3}"
+bloom112,Buchet cu irisi frezii green trick si eucalipt,229.0,229.0,"{'Irisi': 10, 'Frezii': 7, 'Greentick': 5, 'Eucalipt': 4}"
+bloom131,"Buchet trandafiri, lalele si limonium",379.0,379.0,"{'Trandafiri': 5, 'Lalele': 10, 'Limonium': 4}"
+bloom1037,Buchet zi de nastere,169.0,189.0,"{'Trandafiri': 5, 'Frezii': 4, 'Cm': 50}"
+bloom1033,Buchet de flori aniversar,295.0,295.0,"{'Hortensie': 1, 'Trandafiri': 5, 'Alstroemeria': 3, 'Minigerbera': 3, 'Bucle': 4}"
+bloom1032,Buchet 7 trandafiri roz,199.0,199.0,{'Trandafiri': 7}
+bloom888,Aranjament floral cu trandafiri si lisianthus,449.0,449.0,"{'Trandafiri': 17, 'Eustoma': 3}"
+bloom108,Buchet cu 9 trandafiri roz si eucalipt,230.0,230.0,"{'Trandafiri': 9, 'Eucalipt': 4, 'Ambalaj': 1}"
+bloom57,Buchet cu flori roz,189.0,189.0,"{'Trandafiri': 2, 'Alstroemeria': 2, 'Minigerbera': 2, 'Minirose': 2, 'Gipsofila': 2}"
+bloom105,Buchete trandafiri si lisianthus,319.0,319.0,"{'Trandafiri': 5, 'Lisiantus': 5, 'Ruscus': 4, 'Salal': 10}"
+bloom590,Buchet colorat cu frezii si lalele,259.0,259.0,"{'Lalele': 13, 'Frezii': 10}"
+bloom746,buchet cu 19 bujori si verdeata,689.0,689.0,{'Bujori': 19}
+bloom1029,Buchet de ziua mamei,299.0,299.0,"{'Trandafiri': 7, 'Alstroemeria': 3, 'Hypericum': 4, 'Lalele': 4}"
+bloom856,Buchet superb cu 101 trandafiri rosii si albi,1.469,1.62,{'Trandafiri': 101}
+bloom781,"Buchet de flori cu liliac, bujori, orhidee cymbidium",459.0,459.0,"{'Liliac': 1, 'Bujori': 3, 'Trandafiri': 4, 'Lalele': 3, 'Frezii': 3, 'Cupe': 3, 'Alstro': 2}"
+bloom830,Buchet cu trandafiri bujori lisianthus matiola si minirose,439.0,439.0,"{'Buhori': 4, 'Trandafiri': 5, 'Minirose': 3, 'Matiola': 3, 'Oxipetalum': 4, 'Lisianthus': 2}"
+bloom1034,Buchet flori de vara,346.0,346.0,"{'Minirose': 3, 'Trandafiri': 7, 'Lisianthus': 3, 'Matiola': 4}"
+bloom767,"cadou cu bujori, sampanie si bomboane",809.0,809.0,{'Bujori': 19}
+bloom723,"Buchet de flori in culori pastelate cu minirose, lisiantus, matiolla, gerbera",219.0,219.0,"{'Lisiantus': 2, 'Minirose': 2, 'Mattiola': 3, 'Frezii': 3}"
+bloom1027,Buchet de flori la multi ani,175.0,175.0,{'Trandafiri': 9}
+bloom32,Buchet cu trandafiri si irisi,279.0,279.0,"{'Trandafiri': 9, 'Irisi': 10}"
+bloom1023,Buchet de flori ziua mamei,249.0,249.0,"{'Trandafiri': 5, 'Alstroemeria': 5, 'Frezii': 5}"
+bloom30,"Buchet cu trandafiri, lalele si frezii",269.0,269.0,"{'Trandafiri': 7, 'Frezii': 6, 'Lalele': 4}"
+bloom630,Buchet cu trandafiri si hypericum,269.0,269.0,"{'Trandafiri': 7, 'Hypericum': 5, 'Crizantema': 3}"
+bloom117,15 trandafiri mov si limonium,319.0,319.0,"{'Trandafiri': 15, 'Limonium': 4, 'Panglica': 1}"
+bloom633,"Buchet cu hortensie, lisianthus si trandafiri",369.0,399.0,"{'Hortensie': 2, 'Trandafiri': 6, 'Lisanthus': 5, 'Eryngium': 2}"
+bloom118,Buchet cu flori albe mixate,319.0,319.0,"{'Trandafiri': 5, 'Frezii': 5, 'Cupe': 8, 'Aspidistra': 7}"
+bloom124,"Buchetel de primavara, lalele, freezii si irisi",175.0,185.0,"{'Lalele': 4, 'Frezii': 4, 'Irisi': 3}"
+bloom07,"Buchet cu matiola, trandafiri, alstroemeria, lisianthus si astrantia",349.0,349.0,"{'Trandafiri': 6, 'Matiola': 6, 'Alstroemeria': 4, 'Lisianthus': 3, 'Bupleurum': 4, 'Astrantia': 3}"
+bloom1019,Buchet flori aniversare,485.0,485.0,"{'Frezii': 46, 'Trandafiri': 3}"
+bloom1039,Buchet pentru mama cu trandafiri si orhidee,519.0,519.0,"{'Trandafiri': 19, 'Cupe': 10}"
+bloom122,Buchet minigerbera,199.0,199.0,"{'Minigerbera': 19, 'Eucalipt': 5}"
+bloom1006,Buchet din trandafirasi minirose,349.0,349.0,{'Minirose': 19}
+bloom864,25 de trandafiri cu eucalipt si cordiline,429.0,429.0,{'Trandafiri': 25}
+bloom996,Buchet de flori cu matiola lisiantus si frezii,230.0,230.0,"{'Minirosa': 1, 'Lisianthus': 3, 'Frezii': 2, 'Matiola': 2, 'Philodendron': 2}"
+bloom695,"Buchet de flori cu trandafiri, gerbera si alstroemeria",245.0,249.0,"{'Trandafiri': 5, 'Chrisantema': 2, 'Alstroemeria': 3, 'Gerbera': 3}"
+bloom995,Buchet din trandafiri matiola si alstroemeria,219.0,250.0,"{'Trandafiri': 3, 'Matiola': 3, 'Alstoemeria': 3, 'Minirosa': 1}"
+bloom804,buchet cu floarea sorelui si gerbera,257.0,257.0,"{'Floarea-soarelui': 9, 'Gerbera': 3, 'Solidago': 3}"
+bloom899,10 Trandafiri si 13 minirose,419.0,459.0,"{'Trandafiri': 10, 'Minirose': 13}"
+bloom104,Buchet cu 19 trandafiri roz si verdeata,389.0,389.0,"{'Trandafiri': 19, 'Bucle': 7, 'Pittosporum': 6, 'Ambalaj': 1}"
+bloom615,Buchet cu trandafiri rosii si irisi,349.0,349.0,"{'Trandafiri': 13, 'Irisi': 12}"
+bloom625,Buchet cu 19 trandafiri,385.0,385.0,{'Trandafiri': 19}
+bloom54,Buchet cu flori albe si verzi,269.0,269.0,"{'Trandafiri': 3, 'Minirose': 3, 'Germini': 3, 'Alstroemeria': 3, 'Crizantema': 3, 'Trachelim': 3}"
+bloom115,Buchet cu 13 trandafiri galbeni si bucle de cordyline,299.0,299.0,"{'Trandafiri': 13, 'Frunze': 5, 'Eucalipt': 2, 'Ambalaj': 1}"
+bloom891,Buchet de flori cu trandafiri portocalii si frezii albe,469.0,469.0,"{'Trandafiri': 19, 'Frezii': 14, 'Bucle': 5}"
+bloom852,Buchet cu 101 trandafiri roz,1.469,1.469,{'Trandafiri': 101}
+bloom659,Buchet cu 5 trandafiri Freedom,189.0,189.0,{'Trandafiri': 5}
+bloom639,"Buchet cu trandafiri, hypericum, alstroemeria si gerbera",369.0,369.0,"{'Trandafiri': 9, 'Hyperium': 7, 'Alstroemeria': 5, 'Gerbera': 6}"
+bloom741,buchet cu trandafiri rosii si chamelaucium roz,179.0,179.0,"{'Trandafiri': 3, 'Chamelaucium': 4}"
+bloom628,Buchet cu flori portocalii si roz,289.0,320.0,"{'Minirose': 8, 'Minigerbera': 7, 'Limonium': 3, 'Alstoemeria': 3}"
+bloom897,Buchet de flori cu antirinium,429.0,429.0,"{'Antirinium': 29, 'Monstera': 4}"
+bloom886,Buchet colorat de flori,359.0,359.0,"{'Trandafiri': 8, 'Minirosa': 3, 'Crizanteme': 2, 'Cupe': 2, 'Alstroemeria': 2, 'Eryngium': 1, 'Gerbera': 3, 'Bucle': 3, 'Pittosporum': 3}"
+bloom876,101 Trandafiri rosii si orhidee vanda,1.509,1.509,"{'Trandafiri': 101, 'Cupe': 3}"
+bloom705,Buchet de flori in nuante de roz cu trandafiri lisantus si frezii,259.0,259.0,"{'Trandafiri': 5, 'Lisiantus': 4, 'Frezii': 4}"
+bloom854,101 trandafiri roz si albi,1.469,1.469,{'Tradafiri': 101}
+bloom849,Buchet cu floarea soarelui trandafiri matiola si solidago,309.0,309.0,"{'Floarea': 5, 'Trandafiri': 5, 'Matiola': 5, 'Solidago': 3}"
+bloom680,"Buchet cu hortensie, frezii, crizantema si gerbera",349.0,349.0,"{'Hortensii': 3, 'Frezii': 6, 'Gerbera': 4, 'Chrisantema': 3}"
+bloom848,Buchet cu 55 de frezii colorate,569.0,569.0,{'Colorate': 55}
+bloom838,Trandafirii iubirii,469.0,469.0,{'Trandafiri': 25}
+bloom799,buchet cu lalele portocalii si frezii galbene,299.0,340.0,{'Si': 27}
+bloom833,buchet di trandafiri si minirose,419.0,469.0,"{'Minirose': 10, 'Trandafiri': 13}"
+bloom574,Buchet cu 51 trandafiri rosii,889.0,889.0,"{'Trandafiri': 51, 'Ruscus': 10}"
+bloom121,Buchet cu lalele lisiantus si eucalipt,289.0,289.0,"{'Lalele': 15, 'Lisiantus': 3, 'Bucle': 7}"
+bloom114,Buchet cu 25 trandafiri albi,419.0,419.0,{'Trandafiri': 25}
+bloom127,Buchet superb trandafiri rosii,459.0,459.0,"{'Trandafiri': 25, 'Cordyline': 12}"
+bloom31,"Buchet cu orhidee, minirose si bucle de aspidistra",289.0,289.0,"{'Cupe': 9, 'Minirose': 4}"
+bloom06,"Buchet cu trandafiri, garoafe, crizanteme si hypericum",259.0,259.0,"{'Trandafiri': 4, 'Garoafe': 5, 'Crizanteme': 4, 'Hypericum': 3}"
+bloom613,25 de trandafiri cu eucalipt,469.0,469.0,{'Trandafiri': 25}
+bloom619,Buchet cu 101 trandafiri,1.419,1.519,{'Trandafiri': 101}
+bloom74,Buchet cu 39 trandafiri,619.0,619.0,{'Trandafiri': 39}
+bloom130,"Buchet cu trandafiri eryngium, astrantia si verdeata",289.0,289.0,"{'Eryngium': 3, 'Astrantia': 5}"
+bloom38,"Buchet colorat cu frezii, irisi, crizantema, trandafiri",399.0,399.0,"{'Trandafiri': 8, 'Crizantema': 5, 'Frezii': 10, 'Irisi': 10}"
+bloom65,"Buchet cu minirose, trandafiri, chrisantema si bouvardia",279.0,279.0,"{'Minirose': 5, 'Trandafiri': 3, 'Chrisantema': 3, 'Bouvardia': 3}"
+bloom635,Buchet cu crizantema roz si alstroemeria galbena,199.0,199.0,"{'Crizanteme': 3, 'Alstroemeria': 6}"
+bloom640,"Buchet cu crizantema, garoafe si gerbera",229.0,229.0,"{'Crizanteme': 6, 'Gerbera': 5, 'Garoafe': 4}"
+bloom818,Buchet cu 33 trandafiri rosii roz si albi,569.0,569.0,{'Trandafiri': 33}
+bloom648,Buchet cu 5 trandafiri,169.0,169.0,{'Trandafiri': 5}
+bloom811,Buchet cu flori roz si albe,219.0,219.0,"{'Trandafiri': 5, 'Alstroemeria': 5, 'Freii': 4}"
+bloom128,Buchet colorat cu flori de primavara,339.0,339.0,"{'Lalele': 17, 'Greentrick': 5, 'Craspedia': 10, 'Frezii': 7}"
+bloom73,Buchet cu 49 trandafiri albi si galbeni,789.0,789.0,{'Trandafiri': 49}
+bloom679,Buchet cu flori galbene,329.0,329.0,"{'Trandafiri': 5, 'Minirose': 5, 'Craspedia': 8, 'Solidago': 4}"
+bloom809,"Buchet de primavara cu ranunculus, lalele si wax",349.0,349.0,"{'Ranunculus': 5, 'Lalele': 10, 'Trandafie': 1, 'Wax': 3}"
+bloom805,buchet cu hortensie liliac bujori trandafiri si frezii,519.0,519.0,"{'Hortensie': 1, 'Liliac': 3, 'Trandafiri': 5, 'Bujori': 6}"
+bloom584,"Buchet cu lalele, trandafiri, anemone",359.0,359.0,"{'Trandafiri': 7, 'Lalele': 10, 'Anemone': 8}"
+bloom768,lalele colorate vin si bomboane raffaello,319.0,370.0,{'Galbene': 33}
+bloom764,buchet cu 33 lalele albe si mov,309.0,380.0,{'Lalele': 33}
+bloom756,buchet cu 101 lalele galbene,719.0,930.0,{'Lalele': 101}
+bloom810,Buchet cu 21 lalele albe,229.0,269.0,{'Lalele': 21}
+bloom63,Buchet cu lalele colorate,319.0,379.0,{'Lalele': 39}
+bloom627,"Buchet cu orhidee, trandafiri, hypericum si gerbera",289.0,289.0,"{'Trandafiri': 4, 'Cupe': 6, 'Gerbera': 5, 'Hypericum': 5}"
+bloom752,25 de lalele si frezii colorate cu eucalipt,309.0,309.0,{'De': 25}
+bloom757,buchet de flori cu 11 zambile,199.0,199.0,{'Zambile': 11}
+bloom751,Buchet cu lalele si frezii albe,249.0,249.0,{'De': 21}
+bloom750,buchet deosebit cu trandafiri rosii ranunculus si chamelaucium,559.0,559.0,"{'Trandafiri': 19, 'Ranunculus': 10, 'Cnamelaucium': 5}"
+bloom755,buchet de primavara cu ranunculus si lalele duble,349.0,349.0,"{'Trandafir': 1, 'Ranunculus': 5, 'Lalele': 10, 'Chamelaucium': 3}"
+bloom26,Buchet portocaliu cu trandafiri minirosa si gerbera,309.0,309.0,"{'Minirosa': 10, 'Gerbera': 9, 'Pittosporum': 5}"
+bloom742,"buchet cu 33 lalele galbene, portocalii si mov",249.0,330.0,{'Lalele': 33}
+bloom691,Buchet cu 21 lalele albe si galbene,219.0,219.0,{'Galbene': 21}
+bloom688,"Buchet special cu lalele Vip Rose, bujori, hortensie, trandafiri",519.0,529.0,"{'Bujori': 3, 'Lalele': 9, 'Trandafiri': 5, 'Hortensii': 2, 'Cupe': 3, 'Alstroemeria': 4, 'Chamelaucium': 3}"
+bloom670,"Buchet colorat cu frezii, lalele si eucalipt",289.0,350.0,"{'Lalele': 15, 'Frezii': 16}"
+bloom86,"Buchet de craciun cu brad, trandafiri si accesorii",310.0,310.0,"{'Trandafiri': 5, 'Fir': 1, 'Fire': 2}"
+bloom646,"Buchet cu orhidee, lisiantus, minirose si gerbera",325.0,325.0,"{'Cupe': 3, 'Minirose': 4, 'Lisiantus': 5, 'Gerbera': 4, 'Musatel': 5}"
+bloom769,Buchet cu 101 lalele,719.0,879.0,{'Lalele': 101}
+bloom645,Buchet cu flori in nuante de roz,279.0,279.0,"{'Trandafiri': 6, 'Minirose': 5, 'Chrisantema': 3}"
+bloom812,"Buchet colorat cu liliac, bujori, narcise si frezii",519.0,519.0,"{'Bujori': 7, 'Liliac': 3, 'Narcise': 7, 'Frezii': 5}"
+bloom641,Buchet cu flori rosii,229.0,229.0,"{'Trandafiri': 5, 'Gerbera': 5, 'Hypericum': 5}"
+bloom638,"Buchet cu flori, galbene, portocalii si rosii",349.0,349.0,"{'Trandafiri': 8, 'Gerbera': 7, 'Hypericum': 9, 'Solidago': 3}"
+bloom629,"Buchet cu gerbera, alstroemeria si crizantema",199.0,199.0,"{'Gerbera': 5, 'Alstroemeria': 3, 'Ctizantema': 3}"
+bloom626,Buchet cu 15 trandafiri rosii,309.0,309.0,{'Trandafiri': 15}
+bloom706,Buchet din flori galbene cu narcise si lalele,349.0,349.0,"{'Narcise': 19, 'Lalele': 10, 'Chamelaucium': 4}"
+bloom623,"Buchet cu trandafiri, hypericum si crizantema",395.0,395.0,"{'Crizanteme': 6, 'Hypericum': 10, 'Trandafiri': 12}"
+bloom620,Buchet de flori 25 de lalele,255.0,279.0,{'Lalele': 25}
+bloom618,"Buchet cu trandafiri, crizantema si alstroemeria",239.0,239.0,"{'Trandafiri': 5, 'Crizantema': 2, 'Alstroemeria': 4}"
+Bloom614,Buchet cu lalele si irisi,249.0,279.0,"{'Lalele': 13, 'Irisi': 12}"
+bloom605,"Buchet cu delphinium, iris, narcise si trandafiri si ranunculus",519.0,519.0,"{'Delphinium': 8, 'Trandafiri': 6, 'Iris': 10, 'Narcise': 8}"

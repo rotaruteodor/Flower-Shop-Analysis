@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 from collections import Counter
-from utils.dataframe_manager import get_flowershops_dataframes
+from utils.dataframe_manager import get_flowershops_dataframes, PRODUCT_CONTENTS_HEADER
 
 
 def configure_frequency_barchart(contents, title, index=1):
@@ -18,7 +18,7 @@ def configure_frequency_barchart(contents, title, index=1):
 
 
 flowershop_1_df, flowershop_2_df, flowershop_3_df = get_flowershops_dataframes()
-configure_frequency_barchart(flowershop_1_df['Contents'], "Flower Shop 1 - Most popular flowers", 1)
-configure_frequency_barchart(flowershop_2_df['Contents'], "Flower Shop 2 - Most popular flowers", 2)
-configure_frequency_barchart(flowershop_3_df['Contents'], "Flower Shop 3 - Most popular flowers", 3)
+configure_frequency_barchart(flowershop_1_df[PRODUCT_CONTENTS_HEADER], "Flower Shop 1 - Most popular flowers", 1)
+configure_frequency_barchart(flowershop_2_df[PRODUCT_CONTENTS_HEADER], "Flower Shop 2 - Most popular flowers", 2)
+configure_frequency_barchart(flowershop_3_df[PRODUCT_CONTENTS_HEADER], "Flower Shop 3 - Most popular flowers", 3)
 plt.show()

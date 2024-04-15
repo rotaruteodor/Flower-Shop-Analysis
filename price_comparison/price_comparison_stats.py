@@ -1,8 +1,10 @@
-from utils.dataframe_manager import get_flowershops_comparisons_dataframes
+from utils.dataframe_manager import get_flowershops_comparisons_dataframes, DIFFERENCE_PERCENTAGE_HEADER, \
+    DIFFERENCE_HEADER
 import pandas as pd
 import matplotlib.pyplot as plt
 
 labels = ["Average", "St dev", "Lowest", "25% are under", "50% are under", "75% are under", "Highest"]
+
 
 def configure_price_differences_bar_chart(df_column, title):
     plt.style.use('ggplot')
@@ -15,11 +17,10 @@ def configure_price_differences_bar_chart(df_column, title):
     for i, v in enumerate(values):
         ax.text(v + 4, i, str(v), color='white', fontweight='bold')
 
+
 df_f1, df_f2, df_f3 = get_flowershops_comparisons_dataframes()
-df_all_flowershops = pd.concat([df_f1, df_f2, df_f3], ignore_index=False)
+df_all_flowershops = pd.concat([df_f1, df_f2, df_f3], ignore_index=False) # TODO
 
-configure_price_differences_bar_chart(df_all_flowershops['Difference'], "Difference stats (RON)")
-configure_price_differences_bar_chart(df_all_flowershops['Difference (%)'] * 100, "Difference stats (%)")
+configure_price_differences_bar_chart(df_all_flowershops[DIFFERENCE_HEADER], "Difference stats (RON)")
+configure_price_differences_bar_chart(df_all_flowershops[DIFFERENCE_PERCENTAGE_HEADER] * 100, "Difference stats (%)")
 plt.show()
-
-
